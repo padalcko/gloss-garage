@@ -12,13 +12,14 @@ if (leadForm) {
     const leadData = {
       name: formData.get("name"),
       phone: formData.get("phone"),
+      email: formData.get("email"),
       message: formData.get("message"),
       source: "Gloss Garage Landing",
       page: window.location.href,
       createdAt: new Date().toISOString(),
     };
 
-    formStatus.textContent = "Відправляємо заявку...";
+    formStatus.textContent = "Wysyłamy zgłoszenie...";
 
     try {
       const response = await fetch(WEBHOOK_URL, {
@@ -33,11 +34,11 @@ if (leadForm) {
         throw new Error("Webhook error");
       }
 
-      formStatus.textContent = "Дякуємо! Ми скоро звʼяжемось з вами.";
+      formStatus.textContent = "Dziękujemy! Wkrótce się z Tobą skontaktujemy.";
       leadForm.reset();
     } catch (error) {
       console.error(error);
-      formStatus.textContent = "Помилка відправки. Напишіть нам у Telegram.";
+      formStatus.textContent = "Błąd wysyłki. Napisz do nas na WhatsApp.";
     }
   });
 }
