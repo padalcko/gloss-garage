@@ -66,4 +66,60 @@
 
   </url>
 
+
+
+
+
+
+  <!-- PDR CASES START -->
+  <url>
+    <loc>https://gg-pdr.pl/realizacje/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/" />
+  </url>
+  <!-- PDR CASES END -->
+
 </urlset>

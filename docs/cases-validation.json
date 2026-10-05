@@ -1,0 +1,254 @@
+{
+  "html_pages": 10,
+  "case_pages": 8,
+  "sitemap_urls": 10,
+  "webp_files": 40,
+  "http": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/apple-touch-icon.png",
+      "status": 200
+    },
+    {
+      "path": "/favicon.ico",
+      "status": 200
+    },
+    {
+      "path": "/favicon.png",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-1.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-2.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-3.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-4.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/js/script.js",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/audi-a4-pdr-przedni-prawy-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/ru/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/styles/cases.css",
+      "status": 200
+    },
+    {
+      "path": "/styles/ru.css",
+      "status": 200
+    },
+    {
+      "path": "/styles/style.css",
+      "status": 200
+    }
+  ],
+  "errors": [],
+  "browser": "Unavailable: neither chrome nor iab provider is connected. Viewport, console and CWV checks not run."
+}

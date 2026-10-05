@@ -1,0 +1,101 @@
+{
+  "audi-a4-pdr-przedni-prawy-blotnik": {
+    "car": "Audi A4",
+    "pl": {
+      "title": "Audi A4 — naprawa prawego błotnika PDR | Gloss Garage",
+      "description": "Wgniecenie na prawym przednim błotniku czarnego Audi A4 usunięte metodą PDR. Zdjęcia realizacji Gloss Garage i wyjaśnienie naprawy bez lakierowania.",
+      "h1": "Audi A4 — prawy przedni błotnik bez lakierowania",
+      "lead": "W czarnym Audi A4 usunęliśmy wgniecenie na prawym przednim błotniku metodą PDR. Naprawa w Gloss Garage pozwoliła przywrócić kształt powierzchni bez klasycznego szpachlowania i lakierowania.",
+      "damage": "Wgniecenie prawego przedniego błotnika",
+      "sections": [
+        ["Problem: wgniecenie przedniego błotnika", "Uszkodzenie znajdowało się na prawym przednim błotniku, przy przednim kole. Na czarnym lakierze odbicia otoczenia oraz linii tablicy kontrolnej uwidaczniają zmiany kształtu powierzchni. Zdjęcia pokazują ten sam obszar z kilku perspektyw."],
+        ["Co zrobiliśmy w Gloss Garage", "Usunęliśmy wgniecenie metodą PDR, odtwarzając geometrię blachy bez nakładania nowej warstwy lakieru. Zachowane pokrycie lakiernicze umożliwiło naprawę bez przechodzenia do klasycznego procesu blacharsko-lakierniczego."],
+        ["Dlaczego PDR był odpowiednim rozwiązaniem", "Podobne wgniecenia często można naprawić bez lakierowania, jeśli powłoka nie jest uszkodzona, a charakter i położenie deformacji pozwalają na pracę PDR. Celem jest przywrócenie kształtu samej blachy, a nie wyrównanie powierzchni warstwą szpachli."],
+        ["PDR czy szpachlowanie i lakierowanie?", "Zachowanie fabrycznej farby oznacza brak potrzeby dobierania nowego odcienia i mniejszą ingerencję w oryginalne wykończenie błotnika. W wielu przypadkach ograniczenie zakresu prac może oznaczać niższy koszt i krótszy czas naprawy. Nie jest to jednak reguła: wybór metody wymaga oceny konkretnego uszkodzenia."],
+        ["Rezultat naprawy", "Wgniecenie zostało usunięte bez ponownego lakierowania błotnika. Galeria dokumentuje powierzchnię i jej odbicia z różnych kątów. Nie traktujemy tych ujęć jako porównania „przed i po”, ponieważ nie mamy potwierdzonej kolejności wykonania zdjęć."]
+      ],
+      "alts": ["Prawy przedni błotnik czarnego Audi A4 z odbiciem tablicy kontrolnej PDR przy reflektorze", "Zbliżenie odbicia linii tablicy PDR na prawym przednim błotniku Audi A4", "Krawędź prawego przedniego błotnika Audi A4 przy kole i połączeniu ze zderzakiem", "Prawy przedni błotnik Audi A4 nad kołem, widok z niskiej perspektywy"]
+    },
+    "ru": {
+      "title": "Audi A4: ремонт переднего крыла без покраски | Gloss Garage",
+      "description": "Удаление вмятины на правом переднем крыле чёрного Audi A4 методом PDR в Gloss Garage. Фото работы и преимущества сохранения заводской краски.",
+      "h1": "Audi A4 — ремонт правого переднего крыла методом PDR",
+      "lead": "На чёрном Audi A4 мы удалили вмятину на правом переднем крыле методом PDR. Ремонт в Gloss Garage позволил восстановить форму поверхности без шпаклёвки и повторной покраски.",
+      "damage": "Вмятина на правом переднем крыле",
+      "sections": [
+        ["Повреждение переднего крыла", "Вмятина находилась на правом переднем крыле рядом с колесом. На чёрной краске отражения окружающих предметов и линий контрольного экрана помогают увидеть изменения формы поверхности. На фотографиях этот участок показан с разных ракурсов."],
+        ["Что сделал Gloss Garage", "Мы удалили вмятину методом PDR, восстановив геометрию металла без нанесения нового слоя краски. Состояние лакокрасочного покрытия позволило обойтись без традиционного кузовного ремонта с покраской."],
+        ["Почему подошёл метод PDR", "Такие повреждения часто поддаются ремонту без покраски, если покрытие сохранилось, а расположение и характер деформации позволяют применить PDR. Метод восстанавливает форму самого металла, а не выравнивает поверхность слоем шпаклёвки."],
+        ["PDR или традиционный ремонт?", "Сохранение заводской краски избавляет от необходимости подбирать оттенок и уменьшает вмешательство в оригинальную отделку крыла. Во многих случаях меньший объём работ позволяет сократить стоимость и время ремонта. Возможность и преимущества PDR оцениваются после осмотра конкретного повреждения."],
+        ["Результат", "Вмятина удалена без повторной покраски крыла. В галерее видны поверхность и отражения с разных сторон. Фотографии не обозначены как «до и после»: последовательность съёмки не подтверждена."]
+      ],
+      "alts": ["Правое переднее крыло чёрного Audi A4 с отражением контрольного экрана PDR рядом с фарой", "Крупный план отражения линий экрана PDR на правом переднем крыле Audi A4", "Край правого переднего крыла Audi A4 у колеса и стыка с бампером", "Правое переднее крыло Audi A4 над колесом, вид снизу"]
+    }
+  },
+  "toyota-corolla-pdr-prawe-przednie-drzwi": {
+    "car": "Toyota Corolla",
+    "pl": {
+      "title": "Toyota Corolla — drzwi pod lampą PDR | Gloss Garage",
+      "description": "Naprawa wgniecenia prawych przednich drzwi białej Toyoty Corolli w Gloss Garage. Zobacz, jak lampa PDR pomaga kontrolować geometrię powierzchni.",
+      "h1": "Toyota Corolla — naprawa prawych przednich drzwi PDR",
+      "lead": "Biała Toyota Corolla trafiła do Gloss Garage z wgnieceniem na prawych przednich drzwiach. Wykonaliśmy naprawę metodą PDR. Zdjęcia z lampą pokazują, jak można oceniać geometrię powierzchni podczas takiej pracy.",
+      "damage": "Wgniecenie prawych przednich drzwi",
+      "sections": [
+        ["Problem: wgniecenie drzwi", "Uszkodzenie znajdowało się na prawych przednich drzwiach, poniżej lusterka. Na jasnym lakierze drobne nierówności nie zawsze są wyraźne w zwykłym świetle. Dlatego istotna jest obserwacja odbicia uporządkowanych pasów światła."],
+        ["Naprawa i kontrola lampą PDR", "Wgniecenie usunęliśmy metodą PDR. Specjalna lampa tworzy na lakierze jasne pasy: ich załamania i zmiany szerokości pomagają dostrzec zagłębienia oraz niewielkie różnice poziomu blachy. Dzięki temu specjalista PDR może kontrolować kształt powierzchni dokładniej niż przy samym oświetleniu ogólnym."],
+        ["Dlaczego warto zachować fabryczny lakier", "Jeżeli stan powłoki i charakter wgniecenia na to pozwalają, drzwi nie wymagają szpachlowania i ponownego lakierowania. PDR jest szczególnie interesujący dla właściciela, który chce zachować możliwie dużo oryginalnego wykończenia samochodu."],
+        ["Kiedy rozważyć klasyczne lakierowanie", "PDR nie zastępuje naprawy uszkodzonej powłoki. Pęknięcia lakieru lub charakter deformacji mogą wymagać innego rozwiązania. Ocena przed rozpoczęciem prac pozwala dobrać metodę zamiast automatycznie kierować drzwi do szpachlowania i malowania."],
+        ["Rezultat i dokumentacja", "Wykonaliśmy naprawę wgniecenia bez ponownego lakierowania drzwi. Dwa ujęcia z lampą ilustrują kontrolę geometrii powierzchni; nie przypisujemy im niepotwierdzonych etykiet „przed” i „po”."]
+      ],
+      "alts": ["Prawe przednie drzwi białej Toyoty Corolli z odbiciem pasów lampy PDR poniżej lusterka", "Zbliżenie prawych przednich drzwi Toyoty Corolli z załamaniem odbicia światła lampy PDR"]
+    },
+    "ru": {
+      "title": "Toyota Corolla: контроль двери лампой PDR | Gloss Garage",
+      "description": "Ремонт вмятины на правой передней двери белой Toyota Corolla. Фотографии Gloss Garage показывают контроль геометрии поверхности с помощью лампы PDR.",
+      "h1": "Toyota Corolla — удаление вмятины на правой передней двери",
+      "lead": "Белая Toyota Corolla поступила в Gloss Garage с вмятиной на правой передней двери. Мы выполнили ремонт методом PDR. Фотографии с лампой показывают, как контролируют геометрию поверхности при такой работе.",
+      "damage": "Вмятина на правой передней двери",
+      "sections": [
+        ["Повреждение двери", "Вмятина находилась на правой передней двери под зеркалом. На светлой краске небольшие неровности не всегда заметны при обычном освещении. Отражение ровных световых полос помогает увидеть форму повреждённого участка."],
+        ["Ремонт и контроль лампой PDR", "Мы удалили вмятину методом PDR. Специальная лампа создаёт на покрытии световые полосы: их изгибы и изменения ширины показывают углубления и небольшие перепады поверхности. Такое отражение позволяет мастеру контролировать геометрию металла точнее, чем при общем освещении."],
+        ["Сохранение заводской краски", "Если состояние покрытия и характер вмятины позволяют применить PDR, дверь необязательно шпаклевать и красить. Это особенно актуально для владельцев, которые стремятся максимально сохранить заводскую отделку кузова."],
+        ["Когда может понадобиться покраска", "PDR не восстанавливает повреждённое лакокрасочное покрытие. Трещины краски или особенности деформации могут потребовать другого способа ремонта. Поэтому сначала оценивают повреждение, а затем выбирают технологию."],
+        ["Результат и фотографии", "Ремонт вмятины выполнен без повторной покраски двери. Два снимка с лампой иллюстрируют контроль геометрии. Мы не обозначаем их как «до» и «после», поскольку порядок съёмки не подтверждён."]
+      ],
+      "alts": ["Правая передняя дверь белой Toyota Corolla с отражением полос лампы PDR под зеркалом", "Крупный план правой передней двери Toyota Corolla с изгибом отражения лампы PDR"]
+    }
+  },
+  "volkswagen-tiguan-pdr-prawy-tylny-blotnik": {
+    "car": "Volkswagen Tiguan",
+    "pl": {
+      "title": "Volkswagen Tiguan — tylny błotnik bez szpachli | Gloss Garage",
+      "description": "Usunięcie wgniecenia prawego tylnego błotnika ciemnoszarego Volkswagena Tiguana metodą PDR. Realizacja Gloss Garage z zachowaniem oryginalnego lakieru.",
+      "h1": "Volkswagen Tiguan — PDR prawego tylnego błotnika",
+      "lead": "W ciemnoszarym Volkswagenie Tiguanie usunęliśmy wgniecenie na prawym tylnym błotniku. Technologia PDR pozwoliła naprawić element bez szpachli i ponownego lakierowania.",
+      "damage": "Wgniecenie prawego tylnego błotnika",
+      "sections": [
+        ["Uszkodzenie przy tylnym nadkolu", "Wgniecenie dotyczyło prawego tylnego błotnika. Zdjęcia pokazują obszar pomiędzy tylną lampą, klapką wlewu paliwa i nadkolem. Odbicia oświetlenia oraz otoczenia pomagają obserwować przebieg powierzchni z różnych kątów."],
+        ["Naprawa metodą PDR", "Gloss Garage usunął wgniecenie, przywracając geometrię panelu bez pokrywania go szpachlą i nowym lakierem. W tej realizacji zachowaliśmy oryginalną powłokę lakierniczą."],
+        ["Dlaczego tylny błotnik wymaga uwagi", "Tylny błotnik jest częścią nadwozia, której klasyczna naprawa może oznaczać szerszą ingerencję w wykończenie niż samo usunięcie deformacji. Jeśli powłoka jest zachowana, warto sprawdzić możliwość PDR przed podjęciem decyzji o lakierowaniu."],
+        ["PDR a naprawa blacharsko-lakiernicza", "Przy odpowiednim rodzaju uszkodzenia PDR pozwala uniknąć szpachlowania oraz dobierania koloru nowej farby. Zachowanie fabrycznego lakieru ogranicza zakres ingerencji, ale możliwość takiej naprawy zależy od położenia i charakteru wgniecenia. Nie każde uszkodzenie nadaje się do tej metody."],
+        ["Rezultat: odtworzony kształt panelu", "Wgniecenie zostało usunięte technologią PDR bez ponownego lakierowania. Prawidłowy przebieg powierzchni ma znaczenie zwłaszcza przy przetłoczeniach i nadkolu. Galeria przedstawia kilka ujęć naprawianego obszaru, bez niepotwierdzonego podziału na zdjęcia „przed i po”."]
+      ],
+      "alts": ["Prawy tylny błotnik szarego Volkswagena Tiguana między lampą, klapką wlewu i nadkolem", "Prawy tylny błotnik Volkswagena Tiguana widziany z dołu od strony tylnej lampy", "Widok wzdłuż prawego boku Volkswagena Tiguana z odbiciami na tylnym błotniku", "Prawy tylny błotnik Volkswagena Tiguana nad kołem, widok ukośny przy tylnej lampie"]
+    },
+    "ru": {
+      "title": "Volkswagen Tiguan: заднее крыло без шпаклёвки | Gloss Garage",
+      "description": "Вмятина на правом заднем крыле тёмно-серого Volkswagen Tiguan удалена методом PDR. Фото ремонта Gloss Garage с сохранением оригинального покрытия.",
+      "h1": "Volkswagen Tiguan — ремонт правого заднего крыла PDR",
+      "lead": "На тёмно-сером Volkswagen Tiguan мы удалили вмятину на правом заднем крыле. Технология PDR позволила восстановить элемент без шпаклёвки и повторной покраски.",
+      "damage": "Вмятина на правом заднем крыле",
+      "sections": [
+        ["Повреждение рядом с задней аркой", "Вмятина находилась на правом заднем крыле. На снимках показан участок между задним фонарём, лючком топливного бака и колёсной аркой. Отражения света и окружающих предметов позволяют рассмотреть форму поверхности с разных сторон."],
+        ["Что мы сделали", "Gloss Garage удалил вмятину методом PDR и восстановил геометрию панели без шпаклёвки и нанесения новой краски. В этой работе удалось сохранить оригинальное лакокрасочное покрытие."],
+        ["Особенность заднего крыла", "Заднее крыло — элемент кузова, традиционный ремонт которого может потребовать более широкого вмешательства в отделку. Если краска сохранилась, стоит показать вмятину специалисту PDR до принятия решения о покраске."],
+        ["Выбор между PDR и покраской", "При подходящем повреждении PDR позволяет избежать шпаклёвки и подбора оттенка новой краски. Сохранение заводского покрытия уменьшает объём вмешательства. Возможность ремонта зависит от расположения и характера вмятины: метод подходит не для каждого повреждения."],
+        ["Результат: восстановленная форма панели", "Вмятина удалена методом PDR без повторной покраски. Правильная геометрия поверхности особенно важна на изгибах панели и у колёсной арки. В галерее представлены разные ракурсы участка, без неподтверждённых обозначений «до и после»."]
+      ],
+      "alts": ["Правое заднее крыло серого Volkswagen Tiguan между фонарём, лючком бака и аркой", "Правое заднее крыло Volkswagen Tiguan, вид снизу со стороны заднего фонаря", "Вид вдоль правого борта Volkswagen Tiguan с отражениями на заднем крыле", "Правое заднее крыло Volkswagen Tiguan над колесом, ракурс рядом с задним фонарём"]
+    }
+  }
+}

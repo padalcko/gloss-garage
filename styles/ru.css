@@ -1,0 +1,9 @@
+/* Accommodate translated labels without changing the shared button design. */
+html[lang="ru"] .btn {
+  max-width: 100%;
+  white-space: normal;
+  text-align: center;
+}
+html[lang="ru"] .hero h1 {
+  overflow-wrap: anywhere;
+}
