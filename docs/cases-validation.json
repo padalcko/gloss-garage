@@ -9,6 +9,14 @@
       "status": 200
     },
     {
+      "path": "/ai/about.md",
+      "status": 200
+    },
+    {
+      "path": "/ai/realizacje.md",
+      "status": 200
+    },
+    {
       "path": "/apple-touch-icon.png",
       "status": 200
     },
@@ -201,6 +209,10 @@
       "status": 200
     },
     {
+      "path": "/llms.txt",
+      "status": 200
+    },
+    {
       "path": "/realizacje/",
       "status": 200
     },
@@ -209,11 +221,23 @@
       "status": 200
     },
     {
+      "path": "/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md",
+      "status": 200
+    },
+    {
       "path": "/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
       "status": 200
     },
     {
+      "path": "/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.md",
+      "status": 200
+    },
+    {
       "path": "/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md",
       "status": 200
     },
     {
@@ -229,11 +253,23 @@
       "status": 200
     },
     {
+      "path": "/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md",
+      "status": 200
+    },
+    {
       "path": "/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
       "status": 200
     },
     {
+      "path": "/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.md",
+      "status": 200
+    },
+    {
       "path": "/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md",
       "status": 200
     },
     {
@@ -250,5 +286,5 @@
     }
   ],
   "errors": [],
-  "browser": "Unavailable: neither chrome nor iab provider is connected. Viewport, console and CWV checks not run."
+  "browser": "Not assessed by this static checker; see docs/ai-search-report.md for session evidence."
 }

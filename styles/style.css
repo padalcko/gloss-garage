@@ -498,9 +498,20 @@ h3 {
 
 .gallery__grid img {
   width: 100%;
+  /* Override HTML height so the existing square ratio controls every tile. */
+  height: auto;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   transition: 0.25s ease;
+}
+
+/* Keep the pulling tool and the fender repair area inside the square crop. */
+.gallery__grid img:nth-child(2) {
+  object-position: 65% center;
+}
+
+.gallery__grid img:nth-child(4) {
+  object-position: 70% center;
 }
 
 .gallery__grid img:hover {
@@ -633,7 +644,9 @@ h3 {
 }
 
 .footer__contacts a,
-.footer__contacts p {
+.footer__contacts p,
+.footer__contacts address {
+  font-style: normal;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -983,4 +996,59 @@ h3 {
     background: rgba(37, 211, 102, 0.16);
   }
 
+}
+/* FAQ only: progressive accordion, using existing brand and container tokens. */
+.pdr-faq .pdr-faq__heading { text-align: left; max-width: none; margin-bottom: 32px; }
+.pdr-faq .pdr-faq__heading h2 { color: var(--dark); }
+.pdr-faq .pdr-faq__heading h2 span { color: var(--red); }
+.pdr-faq .pdr-faq__heading p { max-width: 52ch; font-size: 16px; }
+.pdr-faq__item { border-top: 1px solid var(--border); transition: border-color 300ms ease; }
+.pdr-faq__item:last-child { border-bottom: 1px solid var(--border); }
+.pdr-faq .pdr-faq__question { margin: 0; text-transform: none; letter-spacing: normal; }
+.pdr-faq__trigger {
+  display: grid;
+  grid-template-columns: 2ch minmax(0, 1fr) 24px;
+  align-items: start;
+  gap: 12px;
+  width: 100%;
+  min-height: 64px;
+  padding: 22px 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--dark);
+  font: inherit;
+  font-size: clamp(18px, 2vw, 24px);
+  font-weight: 800;
+  line-height: 1.4;
+  text-align: left;
+  cursor: default;
+  -webkit-tap-highlight-color: transparent;
+}
+.pdr-faq--ready .pdr-faq__trigger { cursor: pointer; }
+.pdr-faq__number { color: var(--red); font-size: 14px; font-weight: 700; line-height: 1.8; font-variant-numeric: tabular-nums; }
+.pdr-faq__text { min-width: 0; overflow-wrap: anywhere; transition: opacity 300ms ease; }
+.pdr-faq__icon { visibility: hidden; color: var(--red); font-size: 30px; font-weight: 400; line-height: 0.85; text-align: center; transform-origin: center; transition: transform 300ms ease; }
+.pdr-faq--ready .pdr-faq__icon { visibility: visible; }
+.pdr-faq--ready .pdr-faq__trigger[aria-expanded="true"] .pdr-faq__icon { transform: rotate(45deg); }
+.pdr-faq__trigger:focus-visible { outline: 2px solid var(--red); outline-offset: 4px; }
+.pdr-faq__answer { display: grid; grid-template-rows: 1fr; visibility: visible; }
+.pdr-faq--ready .pdr-faq__answer { transition: grid-template-rows 300ms ease, visibility 300ms; }
+.pdr-faq--ready .pdr-faq__answer[aria-hidden="true"] { grid-template-rows: 0fr; visibility: hidden; }
+.pdr-faq__answer-inner { min-height: 0; overflow: hidden; }
+.pdr-faq__answer p { max-width: 68ch; margin: 0; padding: 0 0 24px; color: var(--muted); font-size: 16px; font-weight: 400; line-height: 1.8; }
+@media (min-width: 621px) {
+  .pdr-faq .pdr-faq__heading { margin-bottom: 48px; }
+  .pdr-faq__trigger { grid-template-columns: 40px minmax(0, 1fr) 32px; gap: 20px; padding: 28px 0; }
+  .pdr-faq__number { font-size: 16px; }
+  .pdr-faq__answer p { margin-left: 60px; font-size: 18px; padding-bottom: 32px; }
+}
+@media (hover: hover) and (pointer: fine) {
+  .pdr-faq__item:hover { border-color: var(--muted); }
+  .pdr-faq__trigger:hover .pdr-faq__text { opacity: 0.75; }
+  .pdr-faq--ready .pdr-faq__trigger[aria-expanded="false"]:hover .pdr-faq__icon { transform: rotate(10deg); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pdr-faq__item, .pdr-faq__text, .pdr-faq__icon,
+  .pdr-faq--ready .pdr-faq__answer { transition: none; }
 }

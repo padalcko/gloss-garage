@@ -1,0 +1,4 @@
+# Developer documentation and build sources are not public website resources.
+/docs/* /404.html 404!
+/scripts/* /404.html 404!
+/README.md /404.html 404!

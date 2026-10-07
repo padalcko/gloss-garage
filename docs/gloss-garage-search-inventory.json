@@ -1,0 +1,1433 @@
+{
+  "repository": "gloss-garage",
+  "html_pages": [
+    {
+      "file": "index.html",
+      "canonical": [
+        "https://gg-pdr.pl/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "PDR Wrocław — profesjonalne usuwanie wgnieceń bez lakierowania. Naprawa po gradobiciu, wgniecenia parkingowe i szybka wycena ze zdjęcia przez WhatsApp. Gloss Garage."
+        ],
+        [
+          "keywords",
+          "PDR Wrocław, usuwanie wgnieceń Wrocław, usuwanie wgnieceń bez lakierowania, naprawa po gradobiciu Wrocław, wyciąganie wgnieceń Wrocław, wgniecenia parkingowe Wrocław, Gloss Garage"
+        ],
+        [
+          "robots",
+          "index, follow"
+        ],
+        [
+          "author",
+          "Gloss Garage"
+        ],
+        [
+          "google-site-verification",
+          "QMDC4_K-hQHA8asr5pyddS8ucUlGe__YVnczvkCJvCE"
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "PDR Wrocław — Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Profesjonalne usuwanie wgnieceń bez lakierowania PDR we Wrocławiu i okolicach. Wycena ze zdjęcia przez WhatsApp."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/og-image.jpg"
+        ],
+        [
+          "og:image:width",
+          "1200"
+        ],
+        [
+          "og:image:height",
+          "630"
+        ],
+        [
+          "og:locale",
+          "pl_PL"
+        ],
+        [
+          "og:locale:alternate",
+          "ru_RU"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "PDR Wrocław — Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Profesjonalne usuwanie wgnieceń bez lakierowania PDR we Wrocławiu i okolicach."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/og-image.jpg"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "AutoRepair",
+          "@id": "https://gg-pdr.pl/#business",
+          "name": "Gloss Garage",
+          "url": "https://gg-pdr.pl/",
+          "description": "Gloss Garage — profesjonalne usuwanie wgnieceń bez lakierowania metodą PDR we Wrocławiu i okolicach.",
+          "telephone": "+48884012737",
+          "image": "https://gg-pdr.pl/images/og-image.jpg",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "ul. Szkolna 55",
+            "addressLocality": "Radwanice",
+            "addressCountry": "PL"
+          },
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "Wrocław"
+            },
+            {
+              "@type": "Place",
+              "name": "Radwanice"
+            }
+          ],
+          "sameAs": [
+            "https://www.instagram.com/pdr.glossgarage",
+            "https://www.facebook.com/people/PDR_Wroclaw/100094086760978/"
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 2,
+        "main": 1,
+        "section": 6,
+        "article": 3,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Wgniecenie na prawym przednim błotniku czarnego Audi A4 usunięte metodą PDR. Zdjęcia realizacji Gloss Garage i wyjaśnienie naprawy bez lakierowania."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Audi A4 — naprawa prawego błotnika PDR | Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Wgniecenie na prawym przednim błotniku czarnego Audi A4 usunięte metodą PDR. Zdjęcia realizacji Gloss Garage i wyjaśnienie naprawy bez lakierowania."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Prawy przedni błotnik czarnego Audi A4 z odbiciem tablicy kontrolnej PDR przy reflektorze"
+        ],
+        [
+          "og:locale",
+          "pl_PL"
+        ],
+        [
+          "og:locale:alternate",
+          "ru_RU"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Audi A4 — naprawa prawego błotnika PDR | Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Wgniecenie na prawym przednim błotniku czarnego Audi A4 usunięte metodą PDR. Zdjęcia realizacji Gloss Garage i wyjaśnienie naprawy bez lakierowania."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/#webpage",
+              "url": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/",
+              "name": "Audi A4 — naprawa prawego błotnika PDR | Gloss Garage",
+              "description": "Wgniecenie na prawym przednim błotniku czarnego Audi A4 usunięte metodą PDR. Zdjęcia realizacji Gloss Garage i wyjaśnienie naprawy bez lakierowania.",
+              "inLanguage": "pl",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Strona główna",
+                  "item": "https://gg-pdr.pl/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Realizacje",
+                  "item": "https://gg-pdr.pl/realizacje/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Audi A4",
+                  "item": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 8,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "realizacje/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/realizacje/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Audi A4, Toyota Corolla i Volkswagen Tiguan: rzeczywiste naprawy PDR w Gloss Garage. Zobacz usuwanie wgnieceń z drzwi i błotników bez lakierowania."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Realizacje PDR we Wrocławiu — zdjęcia napraw | Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Audi A4, Toyota Corolla i Volkswagen Tiguan: rzeczywiste naprawy PDR w Gloss Garage. Zobacz usuwanie wgnieceń z drzwi i błotników bez lakierowania."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/realizacje/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Prawy przedni błotnik czarnego Audi A4 z odbiciem tablicy kontrolnej PDR przy reflektorze"
+        ],
+        [
+          "og:locale",
+          "pl_PL"
+        ],
+        [
+          "og:locale:alternate",
+          "ru_RU"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Realizacje PDR we Wrocławiu — zdjęcia napraw | Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Audi A4, Toyota Corolla i Volkswagen Tiguan: rzeczywiste naprawy PDR w Gloss Garage. Zobacz usuwanie wgnieceń z drzwi i błotników bez lakierowania."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/realizacje/#webpage",
+              "url": "https://gg-pdr.pl/realizacje/",
+              "name": "Realizacje PDR we Wrocławiu — zdjęcia napraw | Gloss Garage",
+              "description": "Audi A4, Toyota Corolla i Volkswagen Tiguan: rzeczywiste naprawy PDR w Gloss Garage. Zobacz usuwanie wgnieceń z drzwi i błotników bez lakierowania.",
+              "inLanguage": "pl",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/realizacje/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/realizacje/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Strona główna",
+                  "item": "https://gg-pdr.pl/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Realizacje",
+                  "item": "https://gg-pdr.pl/realizacje/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 3,
+        "article": 3,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Naprawa wgniecenia prawych przednich drzwi białej Toyoty Corolli w Gloss Garage. Zobacz, jak lampa PDR pomaga kontrolować geometrię powierzchni."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Toyota Corolla — drzwi pod lampą PDR | Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Naprawa wgniecenia prawych przednich drzwi białej Toyoty Corolli w Gloss Garage. Zobacz, jak lampa PDR pomaga kontrolować geometrię powierzchni."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Prawe przednie drzwi białej Toyoty Corolli z odbiciem pasów lampy PDR poniżej lusterka"
+        ],
+        [
+          "og:locale",
+          "pl_PL"
+        ],
+        [
+          "og:locale:alternate",
+          "ru_RU"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Toyota Corolla — drzwi pod lampą PDR | Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Naprawa wgniecenia prawych przednich drzwi białej Toyoty Corolli w Gloss Garage. Zobacz, jak lampa PDR pomaga kontrolować geometrię powierzchni."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/#webpage",
+              "url": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
+              "name": "Toyota Corolla — drzwi pod lampą PDR | Gloss Garage",
+              "description": "Naprawa wgniecenia prawych przednich drzwi białej Toyoty Corolli w Gloss Garage. Zobacz, jak lampa PDR pomaga kontrolować geometrię powierzchni.",
+              "inLanguage": "pl",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Strona główna",
+                  "item": "https://gg-pdr.pl/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Realizacje",
+                  "item": "https://gg-pdr.pl/realizacje/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Toyota Corolla",
+                  "item": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 8,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Usunięcie wgniecenia prawego tylnego błotnika ciemnoszarego Volkswagena Tiguana metodą PDR. Realizacja Gloss Garage z zachowaniem oryginalnego lakieru."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Volkswagen Tiguan — tylny błotnik bez szpachli | Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Usunięcie wgniecenia prawego tylnego błotnika ciemnoszarego Volkswagena Tiguana metodą PDR. Realizacja Gloss Garage z zachowaniem oryginalnego lakieru."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Prawy tylny błotnik szarego Volkswagena Tiguana między lampą, klapką wlewu i nadkolem"
+        ],
+        [
+          "og:locale",
+          "pl_PL"
+        ],
+        [
+          "og:locale:alternate",
+          "ru_RU"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Volkswagen Tiguan — tylny błotnik bez szpachli | Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Usunięcie wgniecenia prawego tylnego błotnika ciemnoszarego Volkswagena Tiguana metodą PDR. Realizacja Gloss Garage z zachowaniem oryginalnego lakieru."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/#webpage",
+              "url": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+              "name": "Volkswagen Tiguan — tylny błotnik bez szpachli | Gloss Garage",
+              "description": "Usunięcie wgniecenia prawego tylnego błotnika ciemnoszarego Volkswagena Tiguana metodą PDR. Realizacja Gloss Garage z zachowaniem oryginalnego lakieru.",
+              "inLanguage": "pl",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Strona główna",
+                  "item": "https://gg-pdr.pl/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Realizacje",
+                  "item": "https://gg-pdr.pl/realizacje/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Volkswagen Tiguan",
+                  "item": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 8,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "ru/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/ru/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Удаление вмятин методом PDR во Вроцлаве и окрестностях. Повреждения после града и парковочные вмятины. Оценка по фото через WhatsApp — Gloss Garage."
+        ],
+        [
+          "robots",
+          "index, follow"
+        ],
+        [
+          "author",
+          "Gloss Garage"
+        ],
+        [
+          "google-site-verification",
+          "QMDC4_K-hQHA8asr5pyddS8ucUlGe__YVnczvkCJvCE"
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "PDR во Вроцлаве — Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Удаление вмятин без покраски во Вроцлаве и окрестностях. Оценка по фото через WhatsApp."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/ru/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/og-image.jpg"
+        ],
+        [
+          "og:image:width",
+          "1200"
+        ],
+        [
+          "og:image:height",
+          "630"
+        ],
+        [
+          "og:locale",
+          "ru_RU"
+        ],
+        [
+          "og:locale:alternate",
+          "pl_PL"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "PDR во Вроцлаве — Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Удаление вмятин без покраски во Вроцлаве и окрестностях."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/og-image.jpg"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "AutoRepair",
+          "@id": "https://gg-pdr.pl/#business",
+          "name": "Gloss Garage",
+          "url": "https://gg-pdr.pl/",
+          "description": "Gloss Garage — удаление вмятин без покраски методом PDR во Вроцлаве и окрестностях.",
+          "telephone": "+48884012737",
+          "image": "https://gg-pdr.pl/images/og-image.jpg",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "ul. Szkolna 55",
+            "addressLocality": "Radwanice",
+            "addressCountry": "PL"
+          },
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "Wrocław"
+            },
+            {
+              "@type": "Place",
+              "name": "Radwanice"
+            }
+          ],
+          "sameAs": [
+            "https://www.instagram.com/pdr.glossgarage",
+            "https://www.facebook.com/people/PDR_Wroclaw/100094086760978/"
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 2,
+        "main": 1,
+        "section": 6,
+        "article": 3,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Удаление вмятины на правом переднем крыле чёрного Audi A4 методом PDR в Gloss Garage. Фото работы и преимущества сохранения заводской краски."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Audi A4: ремонт переднего крыла без покраски | Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Удаление вмятины на правом переднем крыле чёрного Audi A4 методом PDR в Gloss Garage. Фото работы и преимущества сохранения заводской краски."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Правое переднее крыло чёрного Audi A4 с отражением контрольного экрана PDR рядом с фарой"
+        ],
+        [
+          "og:locale",
+          "ru_RU"
+        ],
+        [
+          "og:locale:alternate",
+          "pl_PL"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Audi A4: ремонт переднего крыла без покраски | Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Удаление вмятины на правом переднем крыле чёрного Audi A4 методом PDR в Gloss Garage. Фото работы и преимущества сохранения заводской краски."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/#webpage",
+              "url": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/",
+              "name": "Audi A4: ремонт переднего крыла без покраски | Gloss Garage",
+              "description": "Удаление вмятины на правом переднем крыле чёрного Audi A4 методом PDR в Gloss Garage. Фото работы и преимущества сохранения заводской краски.",
+              "inLanguage": "ru",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Главная",
+                  "item": "https://gg-pdr.pl/ru/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Наши работы",
+                  "item": "https://gg-pdr.pl/ru/realizacje/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Audi A4",
+                  "item": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 8,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "ru/realizacje/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/ru/realizacje/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Реальные работы Gloss Garage: Audi A4, Toyota Corolla и Volkswagen Tiguan. Фото удаления вмятин на дверях и крыльях методом PDR без покраски."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве"
+        ],
+        [
+          "og:description",
+          "Реальные работы Gloss Garage: Audi A4, Toyota Corolla и Volkswagen Tiguan. Фото удаления вмятин на дверях и крыльях методом PDR без покраски."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/ru/realizacje/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Правое переднее крыло чёрного Audi A4 с отражением контрольного экрана PDR рядом с фарой"
+        ],
+        [
+          "og:locale",
+          "ru_RU"
+        ],
+        [
+          "og:locale:alternate",
+          "pl_PL"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве"
+        ],
+        [
+          "twitter:description",
+          "Реальные работы Gloss Garage: Audi A4, Toyota Corolla и Volkswagen Tiguan. Фото удаления вмятин на дверях и крыльях методом PDR без покраски."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/ru/realizacje/#webpage",
+              "url": "https://gg-pdr.pl/ru/realizacje/",
+              "name": "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве",
+              "description": "Реальные работы Gloss Garage: Audi A4, Toyota Corolla и Volkswagen Tiguan. Фото удаления вмятин на дверях и крыльях методом PDR без покраски.",
+              "inLanguage": "ru",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/ru/realizacje/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/ru/realizacje/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Главная",
+                  "item": "https://gg-pdr.pl/ru/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Наши работы",
+                  "item": "https://gg-pdr.pl/ru/realizacje/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 3,
+        "article": 3,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Ремонт вмятины на правой передней двери белой Toyota Corolla. Фотографии Gloss Garage показывают контроль геометрии поверхности с помощью лампы PDR."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Toyota Corolla: контроль двери лампой PDR | Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Ремонт вмятины на правой передней двери белой Toyota Corolla. Фотографии Gloss Garage показывают контроль геометрии поверхности с помощью лампы PDR."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Правая передняя дверь белой Toyota Corolla с отражением полос лампы PDR под зеркалом"
+        ],
+        [
+          "og:locale",
+          "ru_RU"
+        ],
+        [
+          "og:locale:alternate",
+          "pl_PL"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Toyota Corolla: контроль двери лампой PDR | Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Ремонт вмятины на правой передней двери белой Toyota Corolla. Фотографии Gloss Garage показывают контроль геометрии поверхности с помощью лампы PDR."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/#webpage",
+              "url": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
+              "name": "Toyota Corolla: контроль двери лампой PDR | Gloss Garage",
+              "description": "Ремонт вмятины на правой передней двери белой Toyota Corolla. Фотографии Gloss Garage показывают контроль геометрии поверхности с помощью лампы PDR.",
+              "inLanguage": "ru",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Главная",
+                  "item": "https://gg-pdr.pl/ru/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Наши работы",
+                  "item": "https://gg-pdr.pl/ru/realizacje/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Toyota Corolla",
+                  "item": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 8,
+        "footer": 1
+      },
+      "faq": false
+    },
+    {
+      "file": "ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.html",
+      "canonical": [
+        "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+      ],
+      "hreflang": [
+        [
+          "pl",
+          "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ],
+        [
+          "ru",
+          "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ],
+        [
+          "x-default",
+          "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ]
+      ],
+      "meta": [
+        [
+          "viewport",
+          "width=device-width, initial-scale=1.0"
+        ],
+        [
+          "description",
+          "Вмятина на правом заднем крыле тёмно-серого Volkswagen Tiguan удалена методом PDR. Фото ремонта Gloss Garage с сохранением оригинального покрытия."
+        ],
+        [
+          "og:type",
+          "website"
+        ],
+        [
+          "og:title",
+          "Volkswagen Tiguan: заднее крыло без шпаклёвки | Gloss Garage"
+        ],
+        [
+          "og:description",
+          "Вмятина на правом заднем крыле тёмно-серого Volkswagen Tiguan удалена методом PDR. Фото ремонта Gloss Garage с сохранением оригинального покрытия."
+        ],
+        [
+          "og:url",
+          "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+        ],
+        [
+          "og:image",
+          "https://gg-pdr.pl/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp"
+        ],
+        [
+          "og:image:width",
+          "1086"
+        ],
+        [
+          "og:image:height",
+          "1448"
+        ],
+        [
+          "og:image:alt",
+          "Правое заднее крыло серого Volkswagen Tiguan между фонарём, лючком бака и аркой"
+        ],
+        [
+          "og:locale",
+          "ru_RU"
+        ],
+        [
+          "og:locale:alternate",
+          "pl_PL"
+        ],
+        [
+          "twitter:card",
+          "summary_large_image"
+        ],
+        [
+          "twitter:title",
+          "Volkswagen Tiguan: заднее крыло без шпаклёвки | Gloss Garage"
+        ],
+        [
+          "twitter:description",
+          "Вмятина на правом заднем крыле тёмно-серого Volkswagen Tiguan удалена методом PDR. Фото ремонта Gloss Garage с сохранением оригинального покрытия."
+        ],
+        [
+          "twitter:image",
+          "https://gg-pdr.pl/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp"
+        ]
+      ],
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/#webpage",
+              "url": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+              "name": "Volkswagen Tiguan: заднее крыло без шпаклёвки | Gloss Garage",
+              "description": "Вмятина на правом заднем крыле тёмно-серого Volkswagen Tiguan удалена методом PDR. Фото ремонта Gloss Garage с сохранением оригинального покрытия.",
+              "inLanguage": "ru",
+              "about": {
+                "@id": "https://gg-pdr.pl/#business"
+              },
+              "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://gg-pdr.pl/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp"
+              },
+              "breadcrumb": {
+                "@id": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/#breadcrumbs"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/#breadcrumbs",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Главная",
+                  "item": "https://gg-pdr.pl/ru/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Наши работы",
+                  "item": "https://gg-pdr.pl/ru/realizacje/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Volkswagen Tiguan",
+                  "item": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "semantic_tags": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "section": 8,
+        "footer": 1
+      },
+      "faq": false
+    }
+  ],
+  "search_related_files": [
+    "docs/cases-seo.json",
+    "docs/cases-validation.json",
+    "docs/laser-tech-service-search-inventory.json",
+    "docs/realizacje-report.md",
+    "index.html",
+    "realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.html",
+    "realizacje/index.html",
+    "realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.html",
+    "realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.html",
+    "robots.txt",
+    "ru/index.html",
+    "ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.html",
+    "ru/realizacje/index.html",
+    "ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.html",
+    "ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.html",
+    "scripts/build-cases.py",
+    "scripts/check-cases.py",
+    "sitemap.xml"
+  ]
+}

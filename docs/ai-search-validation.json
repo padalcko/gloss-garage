@@ -1,0 +1,778 @@
+{
+  "counts": {
+    "markdown_resources": 12,
+    "links_checked": 736,
+    "llms_resources": 2,
+    "html_pages": 10,
+    "json_ld_blocks": 12,
+    "schema_AutoRepair": 2,
+    "schema_PostalAddress": 2,
+    "schema_City": 4,
+    "schema_Place": 4,
+    "schema_WebSite": 2,
+    "schema_WebPage": 10,
+    "schema_Service": 2,
+    "schema_FAQPage": 2,
+    "schema_Question": 20,
+    "schema_Answer": 20,
+    "schema_ImageObject": 8,
+    "schema_BreadcrumbList": 8,
+    "schema_ListItem": 22,
+    "case_paragraphs_checked": 36,
+    "sitemap_urls": 10
+  },
+  "errors": [],
+  "http": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/ai/about.md",
+      "status": 200
+    },
+    {
+      "path": "/ai/contact.md",
+      "status": 200
+    },
+    {
+      "path": "/ai/faq.md",
+      "status": 200
+    },
+    {
+      "path": "/ai/pdr.md",
+      "status": 200
+    },
+    {
+      "path": "/ai/realizacje.md",
+      "status": 200
+    },
+    {
+      "path": "/ai/services.md",
+      "status": 200
+    },
+    {
+      "path": "/apple-touch-icon.png",
+      "status": 200
+    },
+    {
+      "path": "/favicon.ico",
+      "status": 200
+    },
+    {
+      "path": "/favicon.png",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-1.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-2.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-3.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/gloss-garage-usuwanie-wgniecen-gradobicie-4.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/og-image.jpg",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-01-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-02-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-03-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-01-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi-02-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-01-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-02-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-03-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-1086.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik-04-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/js/script.js",
+      "status": 200
+    },
+    {
+      "path": "/llms-full.txt",
+      "status": 200
+    },
+    {
+      "path": "/llms.txt",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/audi-a4-pdr-przedni-prawy-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.md",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md",
+      "status": 200
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200
+    },
+    {
+      "path": "/ru/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/index.md",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md",
+      "status": 200
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200
+    },
+    {
+      "path": "/styles/cases.css",
+      "status": 200
+    },
+    {
+      "path": "/styles/ru.css",
+      "status": 200
+    },
+    {
+      "path": "/styles/style.css",
+      "status": 200
+    }
+  ],
+  "external_urls": [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
+    "https://fonts.googleapis.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap",
+    "https://fonts.gstatic.com",
+    "https://raccoon-studio.com.ua/",
+    "https://wa.me/380667835184",
+    "https://www.facebook.com/people/PDR_Wroclaw/100094086760978/",
+    "https://www.google.com/maps?q=Radwanice%20Szkolna%2055&output=embed",
+    "https://www.googletagmanager.com/gtag/js?id=G-GPXSKXM487",
+    "https://www.instagram.com/pdr.glossgarage"
+  ],
+  "schema": [
+    {
+      "type": "AutoRepair",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "PostalAddress",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "City",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Place",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "WebSite",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Service",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "City",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Place",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "FAQPage",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "AutoRepair",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "PostalAddress",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "City",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Place",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "WebSite",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Service",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "City",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Place",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "FAQPage",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Question",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "Answer",
+      "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    }
+  ],
+  "browser": "No browser providers returned by cua.getState; desktop/mobile visual QA unavailable."
+}
