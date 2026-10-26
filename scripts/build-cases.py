@@ -53,7 +53,8 @@ for lang in COPY:
    body+='<div class="section"><div class="container case-copy">'+''.join(f'<section><h2>{E(h)}</h2><p>{E(p)}</p></section>' for h,p in d['sections'])+'</div></div>'
   else:
    body+='<section class="section gallery" aria-label="'+c['label']+'"><div class="container case-cards">'
-   for i,(s,car) in enumerate(DATA.items()):
+   # New cases are appended to the content registry; show newest cards first.
+   for i,(s,car) in enumerate(reversed(DATA.items())):
     img=photo(s,car.get('cover',1),lang,True)
     if i:img=img.replace('loading="eager"','loading="lazy"')
     body+=f'<article class="card case-card">{img}<h2>{car["car"]}</h2><p>{E(car[lang]["damage"])}. '+('Naprawa w Gloss Garage z zachowaniem oryginalnego lakieru.' if lang=='pl' else 'Ремонт в Gloss Garage с сохранением оригинальной краски.')+f'</p><p class="case-tag">{c["tag"]}</p><a class="btn btn--black" href="{route(lang,s)}" aria-label="{c["read"]}: {car["car"]}">{c["read"]}</a></article>'

@@ -1,11 +1,11 @@
-# Volkswagen Tiguan — переднє праве крило, PDR
+# Mazda CX-5 — переднє праве крило, PDR
 
 Дата: 2026-10-26. Зміни лише локальні; commit, push і deploy не виконувалися.
 
 ## Сторінки
 
-- PL: https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/
-- RU: https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/
+- PL: https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/
+- RU: https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/
 
 Це цільові URL після публікації; перевірки проведені локально.
 
@@ -23,12 +23,12 @@
 
 | Група | Оригінал | Новий файл у images/realizacje/ | Початковий розмір | Кінцевий розмір |
 |---|---|---|---|---|
-| До | `photo_2026-10-26 09.19.56.jpeg` | `volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-960.webp` | 960×1280, 137,071 B | 960×1280, 95,708 B |
-| До | `photo_2026-10-26 09.19.52.jpeg` | `volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-960.webp` | 960×1280, 99,329 B | 960×1280, 56,298 B |
-| До | `photo_2026-10-26 09.19.55.jpeg` | `volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-960.webp` | 960×1280, 137,574 B | 960×1280, 99,888 B |
-| Після | `photo_2026-10-26 09.19.58.jpeg` | `volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-960.webp` | 960×1280, 128,926 B | 960×1280, 92,746 B |
-| Після | `photo_2026-10-26 09.19.59.jpeg` | `volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-960.webp` | 960×1280, 100,397 B | 960×1280, 58,282 B |
-| Після | `photo_2026-10-26 09.19.57.jpeg` | `volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-960.webp` | 960×1280, 116,911 B | 960×1280, 73,886 B |
+| До | `photo_2026-10-26 09.19.56.jpeg` | `mazda-cx5-pdr-przedni-prawy-blotnik-01-960.webp` | 960×1280, 137,071 B | 960×1280, 95,708 B |
+| До | `photo_2026-10-26 09.19.52.jpeg` | `mazda-cx5-pdr-przedni-prawy-blotnik-02-960.webp` | 960×1280, 99,329 B | 960×1280, 56,298 B |
+| До | `photo_2026-10-26 09.19.55.jpeg` | `mazda-cx5-pdr-przedni-prawy-blotnik-03-960.webp` | 960×1280, 137,574 B | 960×1280, 99,888 B |
+| Після | `photo_2026-10-26 09.19.58.jpeg` | `mazda-cx5-pdr-przedni-prawy-blotnik-04-960.webp` | 960×1280, 128,926 B | 960×1280, 92,746 B |
+| Після | `photo_2026-10-26 09.19.59.jpeg` | `mazda-cx5-pdr-przedni-prawy-blotnik-05-960.webp` | 960×1280, 100,397 B | 960×1280, 58,282 B |
+| Після | `photo_2026-10-26 09.19.57.jpeg` | `mazda-cx5-pdr-przedni-prawy-blotnik-06-960.webp` | 960×1280, 116,911 B | 960×1280, 73,886 B |
 
 Шість найбільших WebP: 476,808 B замість 720,208 B JPEG. Усі 24 responsive-файли: 1,106,598 B. Браузер завантажує відповідний варіант через srcset.
 
@@ -55,35 +55,35 @@
 
 ## Створені файли
 
-- `docs/tiguan-front-right-report.md`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-360.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-540.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-768.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-960.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-360.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-540.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-768.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-960.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-360.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-540.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-768.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-960.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-360.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-540.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-768.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-960.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-360.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-540.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-768.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-960.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-360.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-540.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-768.webp`
-- `images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-960.webp`
-- `realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.html`
-- `realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md`
-- `ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.html`
-- `ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md`
+- `docs/mazda-cx5-front-right-report.md`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-01-360.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-01-540.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-01-768.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-01-960.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-02-360.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-02-540.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-02-768.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-02-960.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-03-360.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-03-540.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-03-768.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-03-960.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-04-360.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-04-540.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-04-768.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-04-960.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-05-360.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-05-540.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-05-768.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-05-960.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-06-360.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-06-540.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-06-768.webp`
+- `images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-06-960.webp`
+- `realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/index.html`
+- `realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/index.md`
+- `ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/index.html`
+- `ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/index.md`
 
 ## Змінені файли в цьому завданні
 

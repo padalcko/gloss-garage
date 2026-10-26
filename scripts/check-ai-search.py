@@ -116,7 +116,12 @@ def main():
     technical=(R/'404.html').read_text()
     check('name="robots" content="noindex"' in technical,'404 must be noindex')
     redirects=[line.split() for line in (R/'_redirects').read_text().splitlines() if line.strip() and not line.startswith('#')]
-    check(redirects==[['/docs/*','/404.html','404!'],['/scripts/*','/404.html','404!'],['/README.md','/404.html','404!']],'Unexpected internal routing')
+    expected_redirects=[['/docs/*','/404.html','404!'],['/scripts/*','/404.html','404!'],['/README.md','/404.html','404!']]
+    for base in ('/realizacje/','/ru/realizacje/'):
+        for suffix in ('','/','/index.html','/index.md'):
+            target='/index.md' if suffix.endswith('.md') else '/'
+            expected_redirects.append([base+'volkswagen-tiguan-pdr-przedni-prawy-blotnik'+suffix,base+'mazda-cx5-pdr-przedni-prawy-blotnik'+target,'301!'])
+    check(redirects==expected_redirects,'Unexpected internal routing')
     for local in ('index.html','ru/index.html'):
         original=subprocess.check_output(['git','show','HEAD:'+local],cwd=R).decode()
         current=(R/local).read_text()

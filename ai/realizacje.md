@@ -14,6 +14,14 @@ Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/).
 
+## Mazda CX-5
+
+Problem: Wgniecenie przedniego prawego błotnika.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/).
+
 ## Toyota Corolla
 
 Problem: Wgniecenie prawych przednich drzwi.
@@ -29,11 +37,3 @@ Problem: Wgniecenie prawego tylnego błotnika.
 Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/).
-
-## Volkswagen Tiguan
-
-Problem: Wgniecenie przedniego prawego błotnika.
-
-Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
-
-[Pełny opis HTML](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/).

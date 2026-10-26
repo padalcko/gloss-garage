@@ -202,6 +202,30 @@
     },
     {
       "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "WebPage",
       "page": "https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
     },
     {
@@ -247,30 +271,6 @@
     {
       "type": "ListItem",
       "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
-    },
-    {
-      "type": "WebPage",
-      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ImageObject",
-      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "BreadcrumbList",
-      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ListItem",
-      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ListItem",
-      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ListItem",
-      "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
     },
     {
       "type": "AutoRepair",
@@ -438,6 +438,30 @@
     },
     {
       "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "WebPage",
       "page": "https://gg-pdr.pl/ru/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/"
     },
     {
@@ -483,30 +507,6 @@
     {
       "type": "ListItem",
       "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
-    },
-    {
-      "type": "WebPage",
-      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ImageObject",
-      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "BreadcrumbList",
-      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ListItem",
-      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ListItem",
-      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
-    },
-    {
-      "type": "ListItem",
-      "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/"
     }
   ],
   "browser": "No browser providers returned by cua.getState; desktop/mobile visual QA unavailable."

@@ -12,7 +12,7 @@ Specjalizujemy się w usuwaniu wgnieceń bez konieczności szpachlowania i lakie
 
 PDR polega na przywracaniu kształtu samej blachy. Odbicia linii lampy lub tablicy kontrolnej pomagają ocenić geometrię powierzchni. Stan lakieru, położenie i charakter deformacji decydują o możliwości naprawy; PDR nie zastępuje naprawy pękniętej powłoki lakierniczej.
 
-Przykłady napraw: [Audi A4](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) , [Toyota Corolla](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/) , [Volkswagen Tiguan](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) , [Volkswagen Tiguan](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/) .
+Przykłady napraw: [Audi A4](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) , [Toyota Corolla](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/) , [Volkswagen Tiguan](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) , [Mazda CX-5](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) .
 
 ## Ocena, korzyści i ograniczenia
 
