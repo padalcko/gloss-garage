@@ -4,7 +4,9 @@ import json,re,html
 ROOT=Path(__file__).resolve().parents[1]
 DATA=json.loads((ROOT/'scripts/cases-content.json').read_text())
 BASE='https://gg-pdr.pl'
-IMAGES={v['file']:v for row in json.loads((ROOT/'docs/image-audit.json').read_text()) for v in row['variants']}
+IMAGE_ROWS=json.loads((ROOT/'docs/image-audit.json').read_text())
+IMAGES={v['file']:v for row in IMAGE_ROWS for v in row['variants']}
+VARIANTS={(row['slug'],row['number']):row['variants'] for row in IMAGE_ROWS}
 E=lambda s:html.escape(s,quote=True)
 COPY={
 'pl':dict(label='Realizacje',home='Strona główna',title='Realizacje PDR we Wrocławiu — zdjęcia napraw | Gloss Garage',description='Rzeczywiste naprawy PDR w Gloss Garage we Wrocławiu i okolicach. Zobacz zdjęcia i opisy usuwania wgnieceń z drzwi i błotników bez lakierowania.',h1='Realizacje Gloss Garage — naprawy PDR',lead='Rzeczywiste samochody, konkretne uszkodzenia i naprawy wykonane w Gloss Garage we Wrocławiu i okolicach. Pokazujemy przykłady wgnieceń, które udało się usunąć bez tradycyjnego lakierowania.',gallery='Zdjęcia realizacji',read='Zobacz realizację',tag='PDR · bez lakierowania',cta='Masz podobne wgniecenie?',cta_text='Wyślij nam zdjęcia uszkodzenia z kilku perspektyw. Ocenimy wstępnie, czy można je usunąć metodą PDR bez lakierowania. Ostateczny dobór metody wymaga oględzin.',whatsapp='Wyślij zdjęcia przez WhatsApp',contact='Kontakt',back='Wszystkie realizacje',service='Usługi PDR',crumb='Ścieżka nawigacji'),
@@ -16,8 +18,9 @@ def photo(slug,n,lang,card=False):
  sizes='(min-width: 1212px) 329px, (min-width: 981px) calc((100vw - 226px) / 3), (min-width: 621px) calc((100vw - 152px) / 2), calc(100vw - 74px)' if card else '(min-width: 1212px) 576px, (min-width: 621px) calc((100vw - 60px) / 2), calc(100vw - 28px)'
  # Cards and gallery follow introductory text; first image is eager, others lazy.
  loading='eager' if n==1 else 'lazy'
- dimensions=IMAGES[stem.lstrip('/')+'-1086.webp']
- return f'<img src="{stem}-540.webp" srcset="'+', '.join(f'{stem}-{w}.webp {w}w' for w in (360,540,768,1086))+f'" sizes="{sizes}" width="{dimensions['width']}" height="{dimensions['height']}" loading="{loading}" decoding="async" alt="{E(DATA[slug][lang]["alts"][n-1])}">'
+ variants=VARIANTS[(slug,n)]
+ dimensions=variants[-1]
+ return f'<img src="{stem}-540.webp" srcset="'+', '.join(f'{stem}-{w}.webp {w}w' for w in (v['width'] for v in variants))+f'" sizes="{sizes}" width="{dimensions['width']}" height="{dimensions['height']}" loading="{loading}" decoding="async" alt="{E(DATA[slug][lang]["alts"][n-1])}">'
 # Keep visible service-to-case links in sync before reusing home chrome.
 for language in COPY:
  homepage=ROOT/('ru/index.html' if language=='ru' else 'index.html')
@@ -36,7 +39,7 @@ for lang in COPY:
  fonts=re.search(r'<link rel="preconnect".*?</head>',template,re.S).group().replace('</head>','')
  analytics=re.search(r'<script\s+async.*?</script>\s*<script>.*?</script>',template,re.S).group()
  for slug in ['',*DATA]:
-  d=DATA[slug][lang] if slug else c;url=BASE+route(lang,slug);cover=slug or next(iter(DATA));og=BASE+f'/images/realizacje/{cover}-01-1086.webp'
+  d=DATA[slug][lang] if slug else c;url=BASE+route(lang,slug);cover=slug or next(iter(DATA));cover_number=DATA[cover].get('cover',1);og=BASE+'/'+VARIANTS[(cover,cover_number)][-1]['file']
   switch='<div class="language-switcher" aria-label="'+('Выбор языка' if lang=='ru' else 'Wybór języka')+'">'
   switch+=' <span class="language-switcher__separator"> / </span> '.join(f'<a href="{route(l,slug)}" hreflang="{l}" class="language-switcher__link'+(' language-switcher__link--active" aria-current="page"' if l==lang else '"')+f'>{l.upper()}</a>' for l in COPY)+'</div>'
   pageheader=re.sub(r'<div class="language-switcher".*?</div>',lambda m:switch,header,flags=re.S)
@@ -51,14 +54,14 @@ for lang in COPY:
   else:
    body+='<section class="section gallery" aria-label="'+c['label']+'"><div class="container case-cards">'
    for i,(s,car) in enumerate(DATA.items()):
-    img=photo(s,1,lang,True)
+    img=photo(s,car.get('cover',1),lang,True)
     if i:img=img.replace('loading="eager"','loading="lazy"')
     body+=f'<article class="card case-card">{img}<h2>{car["car"]}</h2><p>{E(car[lang]["damage"])}. '+('Naprawa w Gloss Garage z zachowaniem oryginalnego lakieru.' if lang=='pl' else 'Ремонт в Gloss Garage с сохранением оригинальной краски.')+f'</p><p class="case-tag">{c["tag"]}</p><a class="btn btn--black" href="{route(lang,s)}" aria-label="{c["read"]}: {car["car"]}">{c["read"]}</a></article>'
    body+='</div></section>'
   body+=f'<section class="section contact case-cta"><div class="container case-copy"><h2>{c["cta"]}</h2><p>{c["cta_text"]}</p><div class="case-actions"><a class="btn btn--red" href="https://wa.me/380667835184" target="_blank" rel="noopener noreferrer">{c["whatsapp"]}</a><a class="btn btn--outline" href="{home}#contact">{c["contact"]}</a></div><nav class="case-links" aria-label="{c["label"]}"><a href="{route(lang)}">{c["back"]}</a><a href="{home}#pdr">{c["service"]}</a></nav></div></section>'
   alternates='\n'.join(f'<link rel="alternate" hreflang="{l}" href="{BASE+route("pl" if l=="x-default" else l,slug)}">' for l in ('pl','ru','x-default'))
   meta=f'<title>{E(d["title"])}</title><meta name="description" content="{E(d["description"])}"><link rel="canonical" href="{url}">\n'+alternates
-  for attr,name,value in [('property','og:type','website'),('property','og:title',d['title']),('property','og:description',d['description']),('property','og:url',url),('property','og:image',og),('property','og:image:width',str(IMAGES[og.removeprefix(BASE+'/')]['width'])),('property','og:image:height',str(IMAGES[og.removeprefix(BASE+'/')]['height'])),('property','og:image:alt',DATA[cover][lang]['alts'][0]),('property','og:locale','pl_PL' if lang=='pl' else 'ru_RU'),('property','og:locale:alternate','ru_RU' if lang=='pl' else 'pl_PL'),('name','twitter:card','summary_large_image'),('name','twitter:title',d['title']),('name','twitter:description',d['description']),('name','twitter:image',og)]:meta+=f'\n<meta {attr}="{name}" content="{E(value)}">'
+  for attr,name,value in [('property','og:type','website'),('property','og:title',d['title']),('property','og:description',d['description']),('property','og:url',url),('property','og:image',og),('property','og:image:width',str(IMAGES[og.removeprefix(BASE+'/')]['width'])),('property','og:image:height',str(IMAGES[og.removeprefix(BASE+'/')]['height'])),('property','og:image:alt',DATA[cover][lang]['alts'][cover_number-1]),('property','og:locale','pl_PL' if lang=='pl' else 'ru_RU'),('property','og:locale:alternate','ru_RU' if lang=='pl' else 'pl_PL'),('name','twitter:card','summary_large_image'),('name','twitter:title',d['title']),('name','twitter:description',d['description']),('name','twitter:image',og)]:meta+=f'\n<meta {attr}="{name}" content="{E(value)}">'
   document=f'<!doctype html>\n<html lang="{lang}"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">\n{meta}\n<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" href="/favicon.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">\n{fonts}<link rel="stylesheet" href="/styles/cases.css">\n{analytics}\n<script type="application/ld+json">{json.dumps(schema,ensure_ascii=False)}</script></head><body class="case-page">\n{pageheader}\n<main>{body}</main>\n{footer}\n{mobile}\n</body></html>\n'
   path=ROOT/route(lang,slug).strip('/')/'index.html';path.parent.mkdir(parents=True,exist_ok=True);path.write_text(document)
   seo.append(dict(url=url,title=d['title'],description=d['description'],canonical=url,hreflang={l:BASE+route('pl' if l=='x-default' else l,slug) for l in ('pl','ru','x-default')},og_image=og))

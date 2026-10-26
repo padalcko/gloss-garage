@@ -61,7 +61,7 @@ def build(pages):
     add('ai/pdr.md','PDR — Paintless Dent Repair',BASE+'/#pdr',pdrbody)
     add('ai/faq.md','Pytania o naprawę PDR w Gloss Garage',BASE+'/#faq','\n\n'.join('## '+q+'\n\n'+a for q,a in faqs(home)))
     add('ai/contact.md','Kontakt — Gloss Garage',BASE+'/#contact',contact)
-    body='Gloss Garage wykonuje naprawy PDR we Wrocławiu i okolicach. Poniżej udokumentowane realizacje; zdjęcia nie są oznaczone jako porównania przed i po.\n\n'
+    body='Gloss Garage wykonuje naprawy PDR we Wrocławiu i okolicach. Poniżej udokumentowane realizacje; podpisy zdjęć opisują poszczególne ujęcia.\n\n'
     data=json.loads((ROOT/'scripts/cases-content.json').read_text())
     for p in plcases:
         slug=p['path'].parent.name;d=data[slug]

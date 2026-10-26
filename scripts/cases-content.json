@@ -97,5 +97,59 @@
       ],
       "alts": ["Правое заднее крыло серого Volkswagen Tiguan между фонарём, лючком бака и аркой", "Правое заднее крыло Volkswagen Tiguan, вид снизу со стороны заднего фонаря", "Вид вдоль правого борта Volkswagen Tiguan с отражениями на заднем крыле", "Правое заднее крыло Volkswagen Tiguan над колесом, ракурс рядом с задним фонарём"]
     }
+  },
+  "volkswagen-tiguan-pdr-przedni-prawy-blotnik": {
+    "car": "Volkswagen Tiguan",
+    "cover": 4,
+    "pl": {
+      "title": "Volkswagen Tiguan — przedni prawy błotnik PDR | Gloss Garage",
+      "description": "Usuwanie wgniecenia przedniego prawego błotnika Volkswagena Tiguana metodą PDR w Gloss Garage. Sześć zdjęć przed i po naprawie bez lakierowania.",
+      "h1": "Volkswagen Tiguan – usuwanie wgniecenia przedniego prawego błotnika metodą PDR",
+      "lead": "Do serwisu Gloss Garage trafił Volkswagen Tiguan z uszkodzonym przednim prawym błotnikiem. Na powierzchni elementu znajdowało się wyraźne wgniecenie, które zaburzało fabryczną linię nadwozia.",
+      "damage": "Wgniecenie przedniego prawego błotnika",
+      "sections": [
+        [
+          "Naprawa metodą PDR",
+          "Specjaliści Gloss Garage przeprowadzili naprawę metodą PDR (Paintless Dent Repair), przywracając prawidłowy kształt błotnika bez konieczności lakierowania."
+        ],
+        [
+          "Rezultat naprawy",
+          "Dzięki precyzyjnej pracy udało się odtworzyć geometrię uszkodzonego elementu i zachować oryginalną powłokę lakierniczą samochodu."
+        ]
+      ],
+      "alts": [
+        "Volkswagen Tiguan – wgniecenie przedniego prawego błotnika przed naprawą PDR, widok nad kołem",
+        "Volkswagen Tiguan – przedni prawy błotnik przed naprawą PDR, widok od strony reflektora",
+        "Volkswagen Tiguan – wgniecenie przedniego prawego błotnika przed naprawą PDR, zbliżenie przy nadkolu",
+        "Volkswagen Tiguan – przedni prawy błotnik po naprawie PDR, widok wzdłuż nadkola",
+        "Volkswagen Tiguan – odtworzona geometria przedniego prawego błotnika po naprawie PDR, widok nad kołem",
+        "Volkswagen Tiguan – przedni prawy błotnik po naprawie PDR bez lakierowania, widok od strony reflektora"
+      ]
+    },
+    "ru": {
+      "title": "Volkswagen Tiguan — PDR переднего правого крыла | Gloss Garage",
+      "description": "Удаление вмятины переднего правого крыла Volkswagen Tiguan методом PDR в Gloss Garage. Шесть фото до и после ремонта с сохранением заводской краски.",
+      "h1": "Volkswagen Tiguan — удаление вмятины переднего правого крыла методом PDR",
+      "lead": "В сервис Gloss Garage поступил Volkswagen Tiguan с повреждением переднего правого крыла. На поверхности кузовного элемента находилась заметная вмятина, нарушавшая заводскую геометрию крыла.",
+      "damage": "Вмятина переднего правого крыла",
+      "sections": [
+        [
+          "Ремонт методом PDR",
+          "Специалисты Gloss Garage выполнили восстановление методом PDR (Paintless Dent Repair) без необходимости окрашивания повреждённого элемента."
+        ],
+        [
+          "Результат ремонта",
+          "В результате ремонта была восстановлена форма крыла с сохранением оригинального лакокрасочного покрытия автомобиля."
+        ]
+      ],
+      "alts": [
+        "Volkswagen Tiguan — вмятина переднего правого крыла до ремонта PDR, вид над колесом",
+        "Volkswagen Tiguan — переднее правое крыло до ремонта PDR, вид со стороны фары",
+        "Volkswagen Tiguan — повреждение переднего правого крыла до ремонта PDR, крупный план у колёсной арки",
+        "Volkswagen Tiguan — переднее правое крыло после ремонта PDR, вид вдоль колёсной арки",
+        "Volkswagen Tiguan — восстановленная геометрия переднего правого крыла после ремонта PDR, вид над колесом",
+        "Volkswagen Tiguan — переднее правое крыло после ремонта PDR без покраски, вид со стороны фары"
+      ]
+    }
   }
 }

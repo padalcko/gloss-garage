@@ -45,6 +45,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/>; rel="canonical"
 
+/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/>; rel="canonical"
+
 /ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -59,6 +64,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/>; rel="canonical"
+
+/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/>; rel="canonical"
 
 /llms.txt
   Content-Type: text/plain; charset=utf-8

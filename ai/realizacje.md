@@ -4,7 +4,7 @@
 
 Język: Polski. HTML jest źródłem nadrzędnym.
 
-Gloss Garage wykonuje naprawy PDR we Wrocławiu i okolicach. Poniżej udokumentowane realizacje; zdjęcia nie są oznaczone jako porównania przed i po.
+Gloss Garage wykonuje naprawy PDR we Wrocławiu i okolicach. Poniżej udokumentowane realizacje; podpisy zdjęć opisują poszczególne ujęcia.
 
 ## Audi A4
 
@@ -29,3 +29,11 @@ Problem: Wgniecenie prawego tylnego błotnika.
 Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/).
+
+## Volkswagen Tiguan
+
+Problem: Wgniecenie przedniego prawego błotnika.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/).

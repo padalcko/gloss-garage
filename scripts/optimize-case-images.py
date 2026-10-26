@@ -19,7 +19,7 @@ rows=[row for row in json.loads(previous.read_text()) if row['slug'] not in repl
 for slug,ids in groups:
  for n,id in enumerate(ids,1):
   p=source/id; original=Image.open(p); im=ImageOps.exif_transpose(original).convert('RGB'); variants=[]
-  for w in (360,540,768,1086):
+  for w in sorted({min(width, im.width) for width in (360,540,768,1086)}):
    resized=im.resize((w,round(im.height*w/im.width)),Image.Resampling.LANCZOS)
    name=f'{slug}-{n:02}-{w}.webp'; dest=out/name; resized.save(dest,'WEBP',quality=88,method=6)
    check=Image.open(dest);assert not check.getexif() and 'exif' not in check.info

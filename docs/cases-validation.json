@@ -1,8 +1,8 @@
 {
-  "html_pages": 10,
-  "case_pages": 8,
-  "sitemap_urls": 10,
-  "webp_files": 40,
+  "html_pages": 12,
+  "case_pages": 10,
+  "sitemap_urls": 12,
+  "webp_files": 64,
   "http": [
     {
       "path": "/",
@@ -205,6 +205,106 @@
       "status": 200
     },
     {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-01-960.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-02-960.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-03-960.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-04-960.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-05-960.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik-06-960.webp",
+      "status": 200
+    },
+    {
+      "path": "/js/faq.js",
+      "status": 200
+    },
+    {
       "path": "/js/script.js",
       "status": 200
     },
@@ -241,6 +341,14 @@
       "status": 200
     },
     {
+      "path": "/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md",
+      "status": 200
+    },
+    {
       "path": "/ru/",
       "status": 200
     },
@@ -270,6 +378,14 @@
     },
     {
       "path": "/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/index.md",
       "status": 200
     },
     {

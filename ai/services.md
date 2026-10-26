@@ -29,3 +29,4 @@ Rozwiązanie: usunięcie wgniecenia metodą PDR, po ocenie możliwości naprawy.
 - [Audi A4 — prawy przedni błotnik bez lakierowania](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/)
 - [Toyota Corolla — naprawa prawych przednich drzwi PDR](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/)
 - [Volkswagen Tiguan — PDR prawego tylnego błotnika](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/)
+- [Volkswagen Tiguan – usuwanie wgniecenia przedniego prawego błotnika metodą PDR](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-przedni-prawy-blotnik/)
