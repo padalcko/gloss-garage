@@ -1,8 +1,8 @@
 {
-  "html_pages": 12,
-  "case_pages": 10,
-  "sitemap_urls": 12,
-  "webp_files": 64,
+  "html_pages": 14,
+  "case_pages": 12,
+  "sitemap_urls": 14,
+  "webp_files": 72,
   "http": [
     {
       "path": "/",
@@ -106,6 +106,38 @@
     },
     {
       "path": "/images/realizacje/audi-a4-pdr-przedni-prawy-blotnik-04-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-540.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-768.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw.webp",
       "status": 200
     },
     {
@@ -325,6 +357,14 @@
       "status": 200
     },
     {
+      "path": "/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+      "status": 200
+    },
+    {
+      "path": "/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/index.md",
+      "status": 200
+    },
+    {
       "path": "/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/",
       "status": 200
     },
@@ -362,6 +402,14 @@
     },
     {
       "path": "/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+      "status": 200
+    },
+    {
+      "path": "/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/index.md",
       "status": 200
     },
     {

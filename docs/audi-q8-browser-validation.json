@@ -1,0 +1,266 @@
+[
+  {
+    "lang": "pl",
+    "width": 320,
+    "overflow": false,
+    "labels": [
+      "PRZED",
+      "PO"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.02263184286988812,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "pl",
+    "width": 375,
+    "overflow": false,
+    "labels": [
+      "PRZED",
+      "PO"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.014600713991769546,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "pl",
+    "width": 430,
+    "overflow": false,
+    "labels": [
+      "PRZED",
+      "PO"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-540.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-540.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.016763743270887168,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "pl",
+    "width": 768,
+    "overflow": false,
+    "labels": [
+      "PRZED",
+      "PO"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.021302068363393777,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "pl",
+    "width": 1024,
+    "overflow": false,
+    "labels": [
+      "PRZED",
+      "PO"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-540.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-540.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.01788567043013043,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "pl",
+    "width": 1440,
+    "overflow": false,
+    "labels": [
+      "PRZED",
+      "PO"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-768.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-768.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.010644954929430298,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "ru",
+    "width": 320,
+    "overflow": false,
+    "labels": [
+      "ДО",
+      "ПОСЛЕ"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.02461480938946759,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "ru",
+    "width": 375,
+    "overflow": false,
+    "labels": [
+      "ДО",
+      "ПОСЛЕ"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.005006908333333333,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "ru",
+    "width": 430,
+    "overflow": false,
+    "labels": [
+      "ДО",
+      "ПОСЛЕ"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-540.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-540.webp",
+        "ok": true
+      }
+    ],
+    "cls": 5.789715223944875e-05,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "ru",
+    "width": 768,
+    "overflow": false,
+    "labels": [
+      "ДО",
+      "ПОСЛЕ"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.002850946748207626,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "ru",
+    "width": 1024,
+    "overflow": false,
+    "labels": [
+      "ДО",
+      "ПОСЛЕ"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-540.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-540.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.02197592927349938,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  },
+  {
+    "lang": "ru",
+    "width": 1440,
+    "overflow": false,
+    "labels": [
+      "ДО",
+      "ПОСЛЕ"
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-768.webp",
+        "ok": true
+      },
+      {
+        "src": "http://127.0.0.1:8776/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-768.webp",
+        "ok": true
+      }
+    ],
+    "cls": 0.011047174398791153,
+    "cta": "https://wa.me/380667835184",
+    "errors": []
+  }
+]

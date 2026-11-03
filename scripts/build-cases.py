@@ -20,7 +20,19 @@ def photo(slug,n,lang,card=False):
  loading='eager' if n==1 else 'lazy'
  variants=VARIANTS[(slug,n)]
  dimensions=variants[-1]
- return f'<img src="{stem}-540.webp" srcset="'+', '.join(f'{stem}-{w}.webp {w}w' for w in (v['width'] for v in variants))+f'" sizes="{sizes}" width="{dimensions['width']}" height="{dimensions['height']}" loading="{loading}" decoding="async" alt="{E(DATA[slug][lang]["alts"][n-1])}">'
+ return f'<img src="/{next(v["file"] for v in variants if v["width"]==540)}" srcset="'+', '.join(f'/{v["file"]} {v["width"]}w' for v in variants)+f'" sizes="{sizes}" width="{dimensions["width"]}" height="{dimensions["height"]}" loading="{loading}" decoding="async" alt="{E(DATA[slug][lang]["alts"][n-1])}">'
+def paragraphs(text):
+ # Supplied copy uses paragraphs, strong emphasis and result lists only.
+ def inline(value):return re.sub(r'\*\*(.+?)\*\*',r'<strong>\1</strong>',E(value))
+ blocks=[]
+ for block in text.split('\n\n'):
+  lines=block.splitlines(); items=[line[2:] for line in lines if line.startswith('- ')]
+  if items:
+   prefix='\n'.join(line for line in lines if not line.startswith('- '))
+   blocks.append(('<p>'+inline(prefix)+'</p>' if prefix else '')+'<ul>'+''.join('<li>'+inline(item)+'</li>' for item in items)+'</ul>')
+  elif block.strip():blocks.append('<p>'+inline(block)+'</p>')
+ return ''.join(blocks)
+
 # Keep visible service-to-case links in sync before reusing home chrome.
 for language in COPY:
  homepage=ROOT/('ru/index.html' if language=='ru' else 'index.html')
@@ -47,19 +59,26 @@ for lang in COPY:
   if slug:crumbs.append((DATA[slug]['car'],url))
   breadcrumb='<nav class="container case-breadcrumbs" aria-label="'+c['crumb']+'"><ol>'+''.join(f'<li><a href="{u.removeprefix(BASE)}">{E(t)}</a></li>' if i<len(crumbs)-1 else f'<li aria-current="page">{E(t)}</li>' for i,(t,u) in enumerate(crumbs))+'</ol></nav>'
   schema={'@context':'https://schema.org','@graph':[{'@type':'WebPage','@id':url+'#webpage','url':url,'name':d['title'],'description':d['description'],'inLanguage':lang,'isPartOf':{'@id':BASE+'/#website'},'publisher':{'@id':BASE+'/#business'},'about':[{'@id':BASE+'/#business'},{'@id':BASE+home+'#pdr-service'}],'primaryImageOfPage':{'@type':'ImageObject','url':og},'breadcrumb':{'@id':url+'#breadcrumbs'}},{'@type':'BreadcrumbList','@id':url+'#breadcrumbs','itemListElement':[{'@type':'ListItem','position':i+1,'name':t,'item':u} for i,(t,u) in enumerate(crumbs)]}]}
+  if slug and DATA[slug].get('article'):
+   schema['@graph'].append({'@type':'Article','@id':url+'#article','headline':d['h1'],'description':d['description'],'inLanguage':lang,'mainEntityOfPage':{'@id':url+'#webpage'},'author':{'@id':BASE+'/#business'},'publisher':{'@id':BASE+'/#business'},'image':[BASE+'/'+VARIANTS[(slug,n)][-1]['file'] for n in range(1,len(d['alts'])+1)]})
   body=breadcrumb+f'<section class="section"><div class="container case-heading"><p class="section__label">Gloss Garage · '+('Wrocław i okolice' if lang=='pl' else 'Вроцлав и окрестности')+f'</p><h1>{E(d["h1"])}</h1><p class="case-lead">{E(d["lead"])}</p></div></section>'
   if slug:
-   body+=f'<section class="section gallery"><div class="container"><h2>{c["gallery"]}</h2><div class="case-gallery">'+''.join('<figure>'+photo(slug,n,lang)+f'<figcaption>{E(alt)}</figcaption></figure>' for n,alt in enumerate(d['alts'],1))+'</div></div></section>'
-   body+='<div class="section"><div class="container case-copy">'+''.join(f'<section><h2>{E(h)}</h2><p>{E(p)}</p></section>' for h,p in d['sections'])+'</div></div>'
+   if d.get('intro'):body+='<div class="container case-copy">'+paragraphs(d['intro'])+'</div>'
+   body+=f'<section class="section gallery"><div class="container"><h2>{c["gallery"]}</h2><div class="case-gallery">'+''.join('<figure>'+photo(slug,n,lang)+f'<figcaption>{E(d.get("captions",d["alts"])[n-1])}</figcaption></figure>' for n,alt in enumerate(d['alts'],1))+'</div></div></section>'
+   body+='<div class="section"><div class="container case-copy">'+''.join(f'<section><h2>{E(h)}</h2>{paragraphs(p)}</section>' for h,p in d['sections'])+'</div></div>'
   else:
    body+='<section class="section gallery" aria-label="'+c['label']+'"><div class="container case-cards">'
    # New cases are appended to the content registry; show newest cards first.
    for i,(s,car) in enumerate(reversed(DATA.items())):
     img=photo(s,car.get('cover',1),lang,True)
+    if not i:img=img.replace('loading="lazy"','loading="eager"')
     if i:img=img.replace('loading="eager"','loading="lazy"')
-    body+=f'<article class="card case-card">{img}<h2>{car["car"]}</h2><p>{E(car[lang]["damage"])}. '+('Naprawa w Gloss Garage z zachowaniem oryginalnego lakieru.' if lang=='pl' else 'Ремонт в Gloss Garage с сохранением оригинальной краски.')+f'</p><p class="case-tag">{c["tag"]}</p><a class="btn btn--black" href="{route(lang,s)}" aria-label="{c["read"]}: {car["car"]}">{c["read"]}</a></article>'
+    body+=f'<article class="card case-card">{img}<h2>{E(car[lang].get("card_title",car["car"]))}</h2><p>'+(E(car[lang]["card_description"]) if "card_description" in car[lang] else E(car[lang]["damage"])+'. '+('Naprawa w Gloss Garage z zachowaniem oryginalnego lakieru.' if lang=='pl' else 'Ремонт в Gloss Garage с сохранением оригинальной краски.'))+f'</p><p class="case-tag">{c["tag"]}</p><a class="btn btn--black" href="{route(lang,s)}" aria-label="{c["read"]}: {car["car"]}">{c["read"]}</a></article>'
    body+='</div></section>'
-  body+=f'<section class="section contact case-cta"><div class="container case-copy"><h2>{c["cta"]}</h2><p>{c["cta_text"]}</p><div class="case-actions"><a class="btn btn--red" href="https://wa.me/380667835184" target="_blank" rel="noopener noreferrer">{c["whatsapp"]}</a><a class="btn btn--outline" href="{home}#contact">{c["contact"]}</a></div><nav class="case-links" aria-label="{c["label"]}"><a href="{route(lang)}">{c["back"]}</a><a href="{home}#pdr">{c["service"]}</a></nav></div></section>'
+  body+=f'<section class="section contact case-cta"><div class="container case-copy"><h2>{E(d.get("cta",c["cta"]))}</h2><p>{c["cta_text"]}</p><div class="case-actions"><a class="btn btn--red" href="https://wa.me/380667835184" target="_blank" rel="noopener noreferrer">{E(d.get("whatsapp",c["whatsapp"]))}</a><a class="btn btn--outline" href="{home}#contact">{c["contact"]}</a></div><nav class="case-links" aria-label="{c["label"]}"><a href="{route(lang)}">{c["back"]}</a><a href="{home}#pdr">{c["service"]}</a></nav></div></section>'
+  if slug and DATA[slug].get('related'):
+   related=''.join(f'<a href="{route(lang,other)}">{E(DATA[other]["car"])}</a>' for other in DATA[slug]['related'])
+   body+='<nav class="container case-links" aria-label="'+c['label']+'">'+related+'</nav>'
   alternates='\n'.join(f'<link rel="alternate" hreflang="{l}" href="{BASE+route("pl" if l=="x-default" else l,slug)}">' for l in ('pl','ru','x-default'))
   meta=f'<title>{E(d["title"])}</title><meta name="description" content="{E(d["description"])}"><link rel="canonical" href="{url}">\n'+alternates
   for attr,name,value in [('property','og:type','website'),('property','og:title',d['title']),('property','og:description',d['description']),('property','og:url',url),('property','og:image',og),('property','og:image:width',str(IMAGES[og.removeprefix(BASE+'/')]['width'])),('property','og:image:height',str(IMAGES[og.removeprefix(BASE+'/')]['height'])),('property','og:image:alt',DATA[cover][lang]['alts'][cover_number-1]),('property','og:locale','pl_PL' if lang=='pl' else 'ru_RU'),('property','og:locale:alternate','ru_RU' if lang=='pl' else 'pl_PL'),('name','twitter:card','summary_large_image'),('name','twitter:title',d['title']),('name','twitter:description',d['description']),('name','twitter:image',og)]:meta+=f'\n<meta {attr}="{name}" content="{E(value)}">'

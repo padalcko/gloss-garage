@@ -60,6 +60,18 @@
     "og_image": "https://gg-pdr.pl/images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-04-960.webp"
   },
   {
+    "url": "https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+    "title": "Audi Q8 – Usuwanie Wgniecenia Maski PDR | Wrocław",
+    "description": "Audi Q8 – usuwanie wgniecenia maski metodą PDR we Wrocławiu. Zobacz efekt przed i po naprawie bez lakierowania w Gloss Garage. Wyślij zdjęcie do wyceny.",
+    "canonical": "https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+      "x-default": "https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw.webp"
+  },
+  {
     "url": "https://gg-pdr.pl/ru/realizacje/",
     "title": "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве",
     "description": "Реальные работы Gloss Garage во Вроцлаве и окрестностях. Фото и описания удаления вмятин на дверях и крыльях методом PDR без покраски.",
@@ -118,5 +130,17 @@
       "x-default": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
     },
     "og_image": "https://gg-pdr.pl/images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-04-960.webp"
+  },
+  {
+    "url": "https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+    "title": "Audi Q8 – Удаление вмятины на капоте | PDR Вроцлав",
+    "description": "Удаление вмятины на капоте Audi Q8 без покраски во Вроцлаве. Реальные фото до и после ремонта PDR в Gloss Garage. Оценка повреждения по фото.",
+    "canonical": "https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/",
+      "x-default": "https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw.webp"
   }
 ]

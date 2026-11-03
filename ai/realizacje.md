@@ -14,6 +14,14 @@ Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/audi-a4-pdr-przedni-prawy-blotnik/).
 
+## Audi Q8
+
+Problem: Wgniecenie maski.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/) · [Markdown](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/).
+
 ## Mazda CX-5
 
 Problem: Wgniecenie przedniego prawego błotnika.

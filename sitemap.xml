@@ -94,6 +94,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/" />
   </url>
   <url>
+    <loc>https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/" />
+  </url>
+  <url>
     <loc>https://gg-pdr.pl/ru/realizacje/</loc>
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/" />
@@ -122,6 +128,12 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/" />
   </url>
   <!-- PDR CASES END -->
 </urlset>

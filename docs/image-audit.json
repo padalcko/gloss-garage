@@ -542,5 +542,73 @@
         "bytes": 73886
       }
     ]
+  },
+  {
+    "original": "photo_2026-11-03 15.23.00.jpeg",
+    "slug": "audi-q8-usuwanie-wgniecenia-maski-pdr",
+    "number": 1,
+    "width": 960,
+    "height": 1280,
+    "bytes": 169199,
+    "variants": [
+      {
+        "file": "images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 27592
+      },
+      {
+        "file": "images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 48942
+      },
+      {
+        "file": "images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 87154
+      },
+      {
+        "file": "images/realizacje/audi-q8-wgniecenie-maski-przed-pdr-wroclaw.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 130852
+      }
+    ]
+  },
+  {
+    "original": "photo_2026-11-03 15.23.07.jpeg",
+    "slug": "audi-q8-usuwanie-wgniecenia-maski-pdr",
+    "number": 2,
+    "width": 960,
+    "height": 1280,
+    "bytes": 191023,
+    "variants": [
+      {
+        "file": "images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 31448
+      },
+      {
+        "file": "images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 60216
+      },
+      {
+        "file": "images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 105272
+      },
+      {
+        "file": "images/realizacje/audi-q8-maska-po-naprawie-pdr-wroclaw.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 155464
+      }
+    ]
   }
 ]
