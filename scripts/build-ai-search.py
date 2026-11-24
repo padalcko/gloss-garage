@@ -72,6 +72,8 @@ def build(pages):
         fields=[('Автомобиль' if ru else 'Samochód',d['car']),('Повреждение / элемент кузова' if ru else 'Uszkodzenie / element karoserii',d[lang]['damage']),('Метод' if ru else 'Metoda','PDR — Paintless Dent Repair'),('Исполнитель' if ru else 'Wykonawca','Gloss Garage')]
         text='# '+p['title']+'\n\n'+('Источник HTML' if ru else 'Źródło HTML')+': ['+p['title']+']('+p['url']+')\n\n'+('Язык: Русский. HTML — основной источник.' if ru else 'Język: Polski. HTML jest źródłem nadrzędnym.')+'\n\n'
         text+='\n'.join('- '+k+': '+v for k,v in fields)+'\n\n'+d[lang]['lead']+'\n\n'
+        if d.get('markdown_intro'):
+            text+=d[lang]['intro']+'\n\n'
         text+='\n\n'.join('## '+h+'\n\n'+body for h,body in d[lang]['sections'])+'\n\n'
         text+=('## Фотографии\n\n' if ru else '## Zdjęcia\n\n')+'\n\n'.join(markdown(n,p['url']) for n in p['tree'].all('figure'))
         text+='\n\n['+('Услуги PDR' if ru else 'Usługi PDR')+']('+BASE+root+'#pdr) · ['+('Контакты' if ru else 'Kontakt')+']('+BASE+root+'#contact)\n'

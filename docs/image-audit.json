@@ -610,5 +610,73 @@
         "bytes": 155464
       }
     ]
+  },
+  {
+    "original": "photo_2026-11-24 15.24.56.jpeg",
+    "slug": "bmw-m5-g90-pdr-wroclaw",
+    "number": 1,
+    "width": 960,
+    "height": 1280,
+    "bytes": 163556,
+    "variants": [
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-before-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 28842
+      },
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-before-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 51602
+      },
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-before-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 85406
+      },
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-before.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 121210
+      }
+    ]
+  },
+  {
+    "original": "photo_2026-11-24 15.25.00.jpeg",
+    "slug": "bmw-m5-g90-pdr-wroclaw",
+    "number": 2,
+    "width": 960,
+    "height": 1280,
+    "bytes": 165766,
+    "variants": [
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-after-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 29482
+      },
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-after-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 52474
+      },
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-after-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 88338
+      },
+      {
+        "file": "images/realizacje/bmw-m5-g90-pdr-wroclaw-after.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 128598
+      }
+    ]
   }
 ]

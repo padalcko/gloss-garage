@@ -61,7 +61,7 @@ for row in seo:
  titles.append(row['title']);descs.append(row['description'])
  check('/js/script.js' not in s,route+' unnecessary form JS')
  check('https://wa.me/380667835184' in s and 'tel:+48884012737' in s,route+' contact preservation')
- schema=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',s,re.S).group(1));check([x['@type'] for x in schema['@graph']]==(['WebPage','BreadcrumbList','Article'] if '/audi-q8-' in route else ['WebPage','BreadcrumbList']),route+' schema')
+ schema=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',s,re.S).group(1));slug=route.strip('/').split('/')[-1];data=json.loads((ROOT/'scripts/cases-content.json').read_text());check([x['@type'] for x in schema['@graph']]==(['WebPage','BreadcrumbList','Article'] if data.get(slug,{}).get('article') else ['WebPage','BreadcrumbList']),route+' schema')
  check(not re.search(r'"(?:datePublished|aggregateRating|review|price|offers)"',json.dumps(schema)),route+' invented schema')
  check(p.attrs('img')[0]['loading']=='eager',route+' first image lazy')
  check(all(a['loading']=='lazy' for a in p.attrs('img')[1:]),route+' subsequent image not lazy')

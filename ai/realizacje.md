@@ -22,6 +22,14 @@ Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/) · [Markdown](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/).
 
+## BMW M5 G90
+
+Problem: Wgniecenie lewego tylnego błotnika.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/) · [Markdown](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/).
+
 ## Mazda CX-5
 
 Problem: Wgniecenie przedniego prawego błotnika.

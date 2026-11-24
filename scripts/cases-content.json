@@ -254,5 +254,43 @@
       "cta": "У вас похожая вмятина? Отправьте фото для оценки!",
       "whatsapp": "Отправить фото для оценки"
     }
+  },
+  "bmw-m5-g90-pdr-wroclaw": {
+    "car": "BMW M5 G90",
+    "cover": 2,
+    "article": true,
+    "markdown_intro": true,
+    "related": [
+      "audi-q8-usuwanie-wgniecenia-maski-pdr",
+      "mazda-cx5-pdr-przedni-prawy-blotnik"
+    ],
+    "pl": {
+      "title": "BMW M5 G90 – naprawa PDR Wrocław | Gloss Garage",
+      "description": "Usuwanie wgniecenia na tylnym błotniku BMW M5 G90 bez lakierowania. Profesjonalna naprawa PDR we Wrocławiu. Wyślij zdjęcie do wyceny.",
+      "h1": "BMW M5 G90 – usuwanie wgniecenia bez lakierowania we Wrocławiu",
+      "lead": "Do serwisu Gloss Garage we Wrocławiu trafiło BMW M5 generacji G90 z wgnieceniem na lewym tylnym błotniku, w okolicy nadkola.",
+      "intro": "Uszkodzenie znajdowało się w pobliżu charakterystycznego przetłoczenia karoserii. Naprawa takiego elementu wymaga precyzji, doświadczenia oraz odpowiedniej kontroli powierzchni za pomocą specjalistycznego oświetlenia PDR.\n\nWykorzystując technologię Paintless Dent Repair (PDR), przywróciliśmy prawidłowy kształt elementu bez konieczności lakierowania i szpachlowania.",
+      "sections": [["Efekt naprawy:", "- Usunięcie wgniecenia z tylnego błotnika.\n- Przywrócenie prawidłowego kształtu karoserii.\n- Zachowanie istniejącej powłoki lakierniczej.\n- Naprawa bez ingerencji lakierniczej.\n\nW przypadku samochodów klasy premium metoda PDR pozwala zachować oryginalność karoserii i uniknąć niepotrzebnych napraw lakierniczych.\n\nSzukasz profesjonalnego usuwania wgnieceń bez lakierowania we Wrocławiu? Skontaktuj się z Gloss Garage. Prześlij zdjęcie uszkodzenia przez WhatsApp i otrzymaj wstępną wycenę naprawy."]],
+      "alts": ["BMW M5 G90 – wgniecenie lewego tylnego błotnika przed naprawą PDR we Wrocławiu.", "BMW M5 G90 – tylny błotnik po usunięciu wgniecenia bez lakierowania w Gloss Garage."],
+      "captions": ["PRZED", "PO"],
+      "damage": "Wgniecenie lewego tylnego błotnika",
+      "card_title": "BMW M5 G90 – usuwanie wgniecenia bez lakierowania we Wrocławiu",
+      "card_description": "Usuwanie wgniecenia na tylnym błotniku BMW M5 G90 bez lakierowania.",
+      "whatsapp": "Prześlij zdjęcie uszkodzenia przez WhatsApp"
+    },
+    "ru": {
+      "title": "BMW M5 G90 – PDR ремонт во Вроцлаве | Gloss Garage",
+      "description": "Удаление вмятины на заднем крыле BMW M5 G90 без покраски во Вроцлаве. Профессиональный PDR-ремонт. Оценка стоимости по фото.",
+      "h1": "BMW M5 G90 – удаление вмятины без покраски во Вроцлаве",
+      "lead": "В сервис Gloss Garage во Вроцлаве поступил BMW M5 поколения G90 с вмятиной на левом заднем крыле в районе колёсной арки.",
+      "intro": "Повреждение располагалось рядом с характерным ребром кузова. Восстановление геометрии такого элемента требует высокой точности, опыта и постоянного контроля поверхности с помощью специализированного освещения PDR.\n\nИспользуя технологию Paintless Dent Repair (PDR), мы восстановили форму кузовного элемента без необходимости покраски и применения шпаклёвки.",
+      "sections": [["Результат ремонта:", "- Удаление вмятины на заднем крыле.\n- Восстановление геометрии кузовного элемента.\n- Сохранение существующего лакокрасочного покрытия.\n- Ремонт без покраски.\n\nДля автомобилей премиального класса технология PDR особенно актуальна, поскольку позволяет сохранить оригинальность кузова и избежать ненужного вмешательства в лакокрасочное покрытие.\n\nИщете профессиональное удаление вмятин без покраски во Вроцлаве? Отправьте фотографию повреждения через WhatsApp и получите предварительную оценку стоимости ремонта."]],
+      "alts": ["BMW M5 G90 – вмятина левого заднего крыла до PDR ремонта во Вроцлаве.", "BMW M5 G90 – заднее крыло после удаления вмятины без покраски в Gloss Garage."],
+      "captions": ["ДО", "ПОСЛЕ"],
+      "damage": "Вмятина левого заднего крыла",
+      "card_title": "BMW M5 G90 – удаление вмятины без покраски во Вроцлаве",
+      "card_description": "Удаление вмятины на заднем крыле BMW M5 G90 без покраски во Вроцлаве.",
+      "whatsapp": "Отправьте фотографию через WhatsApp"
+    }
   }
 }

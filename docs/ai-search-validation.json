@@ -1,26 +1,26 @@
 {
   "counts": {
-    "markdown_resources": 16,
-    "links_checked": 1092,
+    "markdown_resources": 18,
+    "links_checked": 1243,
     "llms_resources": 2,
-    "html_pages": 14,
-    "json_ld_blocks": 16,
+    "html_pages": 16,
+    "json_ld_blocks": 18,
     "schema_AutoRepair": 2,
     "schema_PostalAddress": 2,
     "schema_City": 4,
     "schema_Place": 4,
     "schema_WebSite": 2,
-    "schema_WebPage": 14,
+    "schema_WebPage": 16,
     "schema_Service": 2,
     "schema_FAQPage": 2,
     "schema_Question": 20,
     "schema_Answer": 20,
-    "schema_ImageObject": 12,
-    "schema_BreadcrumbList": 12,
-    "schema_ListItem": 34,
-    "case_paragraphs_checked": 90,
-    "schema_Article": 2,
-    "sitemap_urls": 14
+    "schema_ImageObject": 14,
+    "schema_BreadcrumbList": 14,
+    "schema_ListItem": 40,
+    "case_paragraphs_checked": 96,
+    "schema_Article": 4,
+    "sitemap_urls": 16
   },
   "errors": [],
   "http": [],
@@ -211,6 +211,34 @@
     },
     {
       "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "Article",
+      "page": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "WebPage",
       "page": "https://gg-pdr.pl/realizacje/"
     },
     {
@@ -472,6 +500,34 @@
     {
       "type": "Article",
       "page": "https://gg-pdr.pl/ru/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/"
+    },
+    {
+      "type": "Article",
+      "page": "https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/"
     },
     {
       "type": "WebPage",
