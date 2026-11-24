@@ -329,5 +329,50 @@
       "cta": "У вас похожее повреждение?",
       "whatsapp": "Отправить фото для оценки"
     }
+  },
+  "mazda-cx5-pdr-wroclaw": {
+    "car": "Mazda CX-5",
+    "cover": 5,
+    "article": true,
+    "markdown_intro": true,
+    "related": ["mazda-cx5-pdr-przedni-prawy-blotnik", "mercedes-benz-v-class-pdr-wroclaw", "bmw-m5-g90-pdr-wroclaw"],
+    "pl": {
+      "title": "Mazda CX-5 – usuwanie wgnieceń PDR Wrocław | Gloss Garage",
+      "description": "Naprawa głębokiego wgniecenia błotnika Mazda CX-5 metodą PDR we Wrocławiu. Bez lakierowania i szpachlowania. Zobacz efekt przed i po.",
+      "h1": "Mazda CX-5 – usuwanie wgniecenia przedniego błotnika metodą PDR we Wrocławiu",
+      "lead": "Do serwisu Gloss Garage we Wrocławiu trafiła Mazda CX-5 z głębokim wgnieceniem prawego przedniego błotnika. Uszkodzenie obejmowało również charakterystyczne przetłoczenie nad nadkolem, co znacznie zwiększało stopień trudności naprawy.",
+      "intro": "W przypadku tego rodzaju deformacji samo wyrównanie powierzchni blachy nie wystarcza. Konieczne jest precyzyjne odtworzenie linii nadwozia, zachowanie właściwego profilu błotnika oraz przywrócenie naturalnego przebiegu refleksów świetlnych na lakierze.",
+      "sections": [
+        ["Naprawa błotnika bez lakierowania", "Do usunięcia uszkodzenia zastosowaliśmy technologię PDR (Paintless Dent Repair), czyli metodę usuwania wgnieceń bez lakierowania.\n\nDzięki precyzyjnej pracy możliwe było przywrócenie właściwego kształtu błotnika, odtworzenie przetłoczenia oraz zachowanie istniejącej powłoki lakierniczej.\n\nNaprawa nie wymagała szpachlowania, ponownego lakierowania ani wymiany uszkodzonego elementu."],
+        ["Efekt naprawy Mazda CX-5", "Po zakończeniu prac błotnik odzyskał prawidłową geometrię, a linia nadkola została odtworzona. Zdjęcia przed i po naprawie pokazują różnicę zarówno na powierzchni elementu, jak i w miejscu wcześniej zdeformowanego przetłoczenia.\n\nTa realizacja pokazuje, że nawet stosunkowo głębokie wgniecenia na profilowanych elementach karoserii mogą zostać skutecznie usunięte metodą PDR, jeśli stan lakieru i charakter uszkodzenia pozwalają na zastosowanie tej technologii."],
+        ["Usuwanie wgnieceń bez lakierowania – Wrocław", "Gloss Garage specjalizuje się w naprawach PDR we Wrocławiu. Usuwamy wgniecenia parkingowe, uszkodzenia po gradobiciu oraz deformacje błotników, drzwi i innych elementów karoserii.\n\nMasz podobne uszkodzenie w swoim samochodzie? Nie podejmuj decyzji o lakierowaniu przed sprawdzeniem możliwości naprawy metodą PDR.\n\n**Wyślij nam zdjęcia uszkodzenia przez WhatsApp. Ocenimy możliwość naprawy i przygotujemy wstępną wycenę.**"]
+      ],
+      "alts": ["Mazda CX-5 – uszkodzony prawy przedni błotnik przed naprawą PDR.", "Głębokie wgniecenie na przetłoczeniu błotnika Mazda CX-5.", "Deformacja błotnika nad nadkolem Mazda CX-5 przed naprawą.", "Mazda CX-5 po usunięciu wgniecenia bez lakierowania.", "Odtworzone przetłoczenie błotnika Mazda CX-5 po naprawie PDR.", "Nadkole Mazda CX-5 po naprawie w Gloss Garage Wrocław."],
+      "captions": ["PRZED · 01", "PRZED · 02", "PRZED · 03", "PO · 01", "PO · 02", "PO · 03"],
+      "damage": "Głębokie wgniecenie prawego przedniego błotnika i przetłoczenia nad nadkolem",
+      "card_title": "Mazda CX-5 – naprawa głębokiego wgniecenia PDR",
+      "card_description": "Naprawa przedniego prawego błotnika bez lakierowania i szpachlowania.",
+      "cta": "Wyceń naprawę ze zdjęcia",
+      "whatsapp": "Wyceń naprawę ze zdjęcia"
+    },
+    "ru": {
+      "title": "Mazda CX-5 – удаление вмятин PDR Вроцлав | Gloss Garage",
+      "description": "Удаление глубокой вмятины крыла Mazda CX-5 без покраски во Вроцлаве. Восстановление ребра жёсткости методом PDR. Фото до и после.",
+      "h1": "Mazda CX-5 – удаление вмятины переднего крыла без покраски во Вроцлаве",
+      "lead": "В сервис Gloss Garage во Вроцлаве поступил автомобиль Mazda CX-5 с глубокой вмятиной на переднем правом крыле. Повреждение также затронуло ребро жёсткости над колёсной аркой, что значительно усложняло восстановление кузовного элемента.",
+      "intro": "При устранении подобных повреждений недостаточно просто выровнять поверхность металла. Необходимо точно восстановить линии кузова, профиль крыла и естественное отражение света на лакокрасочном покрытии.",
+      "sections": [
+        ["Восстановление крыла по технологии PDR", "Для устранения повреждения была применена технология PDR (Paintless Dent Repair), позволяющая удалять вмятины без покраски автомобиля.\n\nБлагодаря точной работе удалось восстановить геометрию крыла, вернуть первоначальную форму ребра жёсткости и сохранить существующее лакокрасочное покрытие.\n\nРемонт выполнен без шпаклёвки, повторной покраски и замены повреждённого кузовного элемента."],
+        ["Результат ремонта Mazda CX-5", "После завершения работ крыло восстановило правильную геометрию, а линия колёсной арки приобрела первоначальную форму.\n\nНа фотографиях до и после ремонта хорошо видна разница в состоянии поверхности крыла и ранее деформированного ребра жёсткости.\n\nДанная работа демонстрирует возможности технологии PDR при устранении глубоких вмятин на сложных кузовных элементах, если состояние лакокрасочного покрытия и характер повреждения позволяют выполнить такой ремонт."],
+        ["PDR во Вроцлаве – удаление вмятин без покраски", "Gloss Garage специализируется на профессиональном удалении вмятин без покраски во Вроцлаве. Мы устраняем парковочные повреждения, последствия града, вмятины на крыльях, дверях и других кузовных элементах.\n\nЕсли на вашем автомобиле появилась похожая вмятина, не спешите обращаться за традиционным кузовным ремонтом с покраской.\n\n**Отправьте фотографии повреждения через WhatsApp. Мы оценим возможность ремонта по технологии PDR и предоставим предварительную стоимость работ.**"]
+      ],
+      "alts": ["Переднее правое крыло Mazda CX-5 до ремонта PDR.", "Глубокая вмятина на ребре жёсткости крыла Mazda CX-5.", "Деформация крыла над колёсной аркой Mazda CX-5.", "Mazda CX-5 после удаления вмятины без покраски.", "Восстановленное ребро жёсткости крыла Mazda CX-5.", "Колёсная арка Mazda CX-5 после ремонта PDR во Вроцлаве."],
+      "captions": ["ДО · 01", "ДО · 02", "ДО · 03", "ПОСЛЕ · 01", "ПОСЛЕ · 02", "ПОСЛЕ · 03"],
+      "damage": "Глубокая вмятина переднего правого крыла и ребра жёсткости над колёсной аркой",
+      "card_title": "Mazda CX-5 – ремонт глубокой вмятины методом PDR",
+      "card_description": "Ремонт переднего правого крыла без покраски и шпаклёвки.",
+      "cta": "Оценить ремонт по фото",
+      "whatsapp": "Оценить ремонт по фото"
+    }
   }
 }

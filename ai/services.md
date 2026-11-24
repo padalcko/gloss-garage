@@ -30,6 +30,7 @@ Rozwiązanie: usunięcie wgniecenia metodą PDR, po ocenie możliwości naprawy.
 - [Audi Q8 – usuwanie wgniecenia maski metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/)
 - [BMW M5 G90 – usuwanie wgniecenia bez lakierowania we Wrocławiu](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/)
 - [Mazda CX-5 – usuwanie wgniecenia przedniego prawego błotnika metodą PDR](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/)
+- [Mazda CX-5 – usuwanie wgniecenia przedniego błotnika metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/)
 - [Mercedes-Benz Klasy V – usuwanie wgniecenia bez lakierowania metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/)
 - [Toyota Corolla — naprawa prawych przednich drzwi PDR](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/)
 - [Volkswagen Tiguan — PDR prawego tylnego błotnika](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/)

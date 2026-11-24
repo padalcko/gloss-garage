@@ -50,6 +50,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/>; rel="canonical"
 
+/realizacje/mazda-cx5-pdr-wroclaw/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/>; rel="canonical"
+
 /realizacje/mercedes-benz-v-class-pdr-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -84,6 +89,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/>; rel="canonical"
+
+/ru/realizacje/mazda-cx5-pdr-wroclaw/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/>; rel="canonical"
 
 /ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/index.md
   Content-Type: text/markdown; charset=utf-8

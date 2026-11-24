@@ -1,26 +1,26 @@
 {
   "counts": {
-    "markdown_resources": 20,
-    "links_checked": 1394,
+    "markdown_resources": 22,
+    "links_checked": 1599,
     "llms_resources": 2,
-    "html_pages": 18,
-    "json_ld_blocks": 20,
+    "html_pages": 20,
+    "json_ld_blocks": 22,
     "schema_AutoRepair": 2,
     "schema_PostalAddress": 2,
     "schema_City": 4,
     "schema_Place": 4,
     "schema_WebSite": 2,
-    "schema_WebPage": 18,
+    "schema_WebPage": 20,
     "schema_Service": 2,
     "schema_FAQPage": 2,
     "schema_Question": 20,
     "schema_Answer": 20,
-    "schema_ImageObject": 16,
-    "schema_BreadcrumbList": 16,
-    "schema_ListItem": 46,
-    "case_paragraphs_checked": 104,
-    "schema_Article": 6,
-    "sitemap_urls": 18
+    "schema_ImageObject": 18,
+    "schema_BreadcrumbList": 18,
+    "schema_ListItem": 52,
+    "case_paragraphs_checked": 123,
+    "schema_Article": 8,
+    "sitemap_urls": 20
   },
   "errors": [],
   "http": [],
@@ -283,6 +283,34 @@
     },
     {
       "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "Article",
+      "page": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "WebPage",
       "page": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/"
     },
     {
@@ -600,6 +628,34 @@
     {
       "type": "ListItem",
       "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    {
+      "type": "Article",
+      "page": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/"
     },
     {
       "type": "WebPage",

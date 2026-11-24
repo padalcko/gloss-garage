@@ -96,6 +96,18 @@
     "og_image": "https://gg-pdr.pl/images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po.webp"
   },
   {
+    "url": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/",
+    "title": "Mazda CX-5 – usuwanie wgnieceń PDR Wrocław | Gloss Garage",
+    "description": "Naprawa głębokiego wgniecenia błotnika Mazda CX-5 metodą PDR we Wrocławiu. Bez lakierowania i szpachlowania. Zobacz efekt przed i po.",
+    "canonical": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/",
+      "x-default": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/mazda-cx5-pdr-wroclaw-05-960.webp"
+  },
+  {
     "url": "https://gg-pdr.pl/ru/realizacje/",
     "title": "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве",
     "description": "Реальные работы Gloss Garage во Вроцлаве и окрестностях. Фото и описания удаления вмятин на дверях и крыльях методом PDR без покраски.",
@@ -190,5 +202,17 @@
       "x-default": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/"
     },
     "og_image": "https://gg-pdr.pl/images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po.webp"
+  },
+  {
+    "url": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/",
+    "title": "Mazda CX-5 – удаление вмятин PDR Вроцлав | Gloss Garage",
+    "description": "Удаление глубокой вмятины крыла Mazda CX-5 без покраски во Вроцлаве. Восстановление ребра жёсткости методом PDR. Фото до и после.",
+    "canonical": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/",
+      "x-default": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/mazda-cx5-pdr-wroclaw-05-960.webp"
   }
 ]

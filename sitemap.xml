@@ -112,6 +112,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
   </url>
   <url>
+    <loc>https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/" />
+  </url>
+  <url>
     <loc>https://gg-pdr.pl/ru/realizacje/</loc>
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/" />
@@ -158,6 +164,12 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/" />
   </url>
   <!-- PDR CASES END -->
 </urlset>

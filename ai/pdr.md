@@ -12,7 +12,7 @@ Specjalizujemy się w usuwaniu wgnieceń bez konieczności szpachlowania i lakie
 
 PDR polega na przywracaniu kształtu samej blachy. Odbicia linii lampy lub tablicy kontrolnej pomagają ocenić geometrię powierzchni. Stan lakieru, położenie i charakter deformacji decydują o możliwości naprawy; PDR nie zastępuje naprawy pękniętej powłoki lakierniczej.
 
-Przykłady napraw: [Audi A4](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) , [Toyota Corolla](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/) , [Volkswagen Tiguan](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) , [Mazda CX-5](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) , [Audi Q8](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/) , [BMW M5 G90](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/) , [Mercedes-Benz V-Class](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/) .
+Przykłady napraw: [Audi A4](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) , [Toyota Corolla](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/) , [Volkswagen Tiguan](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) , [Mazda CX-5](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) , [Audi Q8](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/) , [BMW M5 G90](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/) , [Mercedes-Benz V-Class](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/) , [Mazda CX-5](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/) .
 
 ## Ocena, korzyści i ograniczenia
 

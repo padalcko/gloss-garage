@@ -746,5 +746,209 @@
         "bytes": 94988
       }
     ]
+  },
+  {
+    "original": "IMG_8870.JPG",
+    "slug": "mazda-cx5-pdr-wroclaw",
+    "number": 1,
+    "width": 960,
+    "height": 1280,
+    "bytes": 108130,
+    "variants": [
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-01-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 12928
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-01-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 20394
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-01-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 33134
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-01-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 50058
+      }
+    ]
+  },
+  {
+    "original": "IMG_8871.JPG",
+    "slug": "mazda-cx5-pdr-wroclaw",
+    "number": 2,
+    "width": 960,
+    "height": 1280,
+    "bytes": 146076,
+    "variants": [
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-02-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 17690
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-02-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 33476
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-02-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 55522
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-02-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 83334
+      }
+    ]
+  },
+  {
+    "original": "IMG_8872.JPG",
+    "slug": "mazda-cx5-pdr-wroclaw",
+    "number": 3,
+    "width": 960,
+    "height": 1280,
+    "bytes": 146691,
+    "variants": [
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-03-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 19982
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-03-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 36154
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-03-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 59642
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-03-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 87190
+      }
+    ]
+  },
+  {
+    "original": "IMG_8873.JPG",
+    "slug": "mazda-cx5-pdr-wroclaw",
+    "number": 4,
+    "width": 960,
+    "height": 1280,
+    "bytes": 125771,
+    "variants": [
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-04-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 15808
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-04-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 27184
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-04-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 42674
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-04-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 64236
+      }
+    ]
+  },
+  {
+    "original": "IMG_8874.JPG",
+    "slug": "mazda-cx5-pdr-wroclaw",
+    "number": 5,
+    "width": 960,
+    "height": 1280,
+    "bytes": 109056,
+    "variants": [
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-05-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 13194
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-05-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 21934
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-05-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 35748
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-05-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 51998
+      }
+    ]
+  },
+  {
+    "original": "IMG_8875.JPG",
+    "slug": "mazda-cx5-pdr-wroclaw",
+    "number": 6,
+    "width": 960,
+    "height": 1280,
+    "bytes": 137863,
+    "variants": [
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-06-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 17246
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-06-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 30970
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-06-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 52208
+      },
+      {
+        "file": "images/realizacje/mazda-cx5-pdr-wroclaw-06-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 79974
+      }
+    ]
   }
 ]
