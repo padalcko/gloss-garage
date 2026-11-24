@@ -84,6 +84,18 @@
     "og_image": "https://gg-pdr.pl/images/realizacje/bmw-m5-g90-pdr-wroclaw-after.webp"
   },
   {
+    "url": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+    "title": "Mercedes-Benz Klasy V – naprawa PDR Wrocław | Gloss Garage",
+    "description": "Usuwanie wgniecenia bez lakierowania w Mercedes-Benz Klasy V. Zobacz efekt naprawy PDR we Wrocławiu. Wyślij zdjęcie do wyceny w Gloss Garage.",
+    "canonical": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+      "x-default": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po.webp"
+  },
+  {
     "url": "https://gg-pdr.pl/ru/realizacje/",
     "title": "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве",
     "description": "Реальные работы Gloss Garage во Вроцлаве и окрестностях. Фото и описания удаления вмятин на дверях и крыльях методом PDR без покраски.",
@@ -166,5 +178,17 @@
       "x-default": "https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/"
     },
     "og_image": "https://gg-pdr.pl/images/realizacje/bmw-m5-g90-pdr-wroclaw-after.webp"
+  },
+  {
+    "url": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+    "title": "Mercedes-Benz V-Class – PDR Вроцлав | Gloss Garage",
+    "description": "Удаление вмятины без покраски Mercedes-Benz V-Class во Вроцлаве. Результат ремонта PDR в Gloss Garage. Предварительная оценка по фотографии.",
+    "canonical": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/",
+      "x-default": "https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po.webp"
   }
 ]

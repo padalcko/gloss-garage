@@ -106,6 +106,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/" />
   </url>
   <url>
+    <loc>https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
+  </url>
+  <url>
     <loc>https://gg-pdr.pl/ru/realizacje/</loc>
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/" />
@@ -146,6 +152,12 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/bmw-m5-g90-pdr-wroclaw/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/" />
   </url>
   <!-- PDR CASES END -->
 </urlset>

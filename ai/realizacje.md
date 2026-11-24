@@ -38,6 +38,14 @@ Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/).
 
+## Mercedes-Benz V-Class
+
+Problem: Miejscowe wgniecenie w obrębie przetłoczenia karoserii.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/) · [Markdown](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/).
+
 ## Toyota Corolla
 
 Problem: Wgniecenie prawych przednich drzwi.

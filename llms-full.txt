@@ -66,6 +66,7 @@ Rozwiązanie: usunięcie wgniecenia metodą PDR, po ocenie możliwości naprawy.
 - [Audi Q8 – usuwanie wgniecenia maski metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/)
 - [BMW M5 G90 – usuwanie wgniecenia bez lakierowania we Wrocławiu](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/)
 - [Mazda CX-5 – usuwanie wgniecenia przedniego prawego błotnika metodą PDR](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/)
+- [Mercedes-Benz Klasy V – usuwanie wgniecenia bez lakierowania metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/)
 - [Toyota Corolla — naprawa prawych przednich drzwi PDR](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/)
 - [Volkswagen Tiguan — PDR prawego tylnego błotnika](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/)
 
@@ -84,7 +85,7 @@ Specjalizujemy się w usuwaniu wgnieceń bez konieczności szpachlowania i lakie
 
 PDR polega na przywracaniu kształtu samej blachy. Odbicia linii lampy lub tablicy kontrolnej pomagają ocenić geometrię powierzchni. Stan lakieru, położenie i charakter deformacji decydują o możliwości naprawy; PDR nie zastępuje naprawy pękniętej powłoki lakierniczej.
 
-Przykłady napraw: [Audi A4](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) , [Toyota Corolla](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/) , [Volkswagen Tiguan](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) , [Mazda CX-5](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) , [Audi Q8](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/) , [BMW M5 G90](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/) .
+Przykłady napraw: [Audi A4](https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/) , [Toyota Corolla](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/) , [Volkswagen Tiguan](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) , [Mazda CX-5](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) , [Audi Q8](https://gg-pdr.pl/realizacje/audi-q8-usuwanie-wgniecenia-maski-pdr/) , [BMW M5 G90](https://gg-pdr.pl/realizacje/bmw-m5-g90-pdr-wroclaw/) , [Mercedes-Benz V-Class](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/) .
 
 ## Ocena, korzyści i ograniczenia
 
@@ -221,6 +222,14 @@ Problem: Wgniecenie przedniego prawego błotnika.
 Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik/).
+
+## Mercedes-Benz V-Class
+
+Problem: Miejscowe wgniecenie w obrębie przetłoczenia karoserii.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/) · [Markdown](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/mercedes-benz-v-class-pdr-wroclaw/).
 
 ## Toyota Corolla
 
@@ -467,6 +476,46 @@ Mazda CX-5 – odtworzona geometria przedniego prawego błotnika po naprawie PDR
 ![Mazda CX-5 – przedni prawy błotnik po naprawie PDR bez lakierowania, widok od strony reflektora](https://gg-pdr.pl/images/realizacje/mazda-cx5-pdr-przedni-prawy-blotnik-06-540.webp)
 
 Mazda CX-5 – przedni prawy błotnik po naprawie PDR bez lakierowania, widok od strony reflektora
+
+[Usługi PDR](https://gg-pdr.pl/#pdr) · [Kontakt](https://gg-pdr.pl/#contact)
+
+
+# Mercedes-Benz Klasy V – usuwanie wgniecenia bez lakierowania metodą PDR we Wrocławiu
+
+Źródło HTML: [Mercedes-Benz Klasy V – usuwanie wgniecenia bez lakierowania metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/)
+
+Język: Polski. HTML jest źródłem nadrzędnym.
+
+- Samochód: Mercedes-Benz V-Class
+- Uszkodzenie / element karoserii: Miejscowe wgniecenie w obrębie przetłoczenia karoserii
+- Metoda: PDR — Paintless Dent Repair
+- Wykonawca: Gloss Garage
+
+Do serwisu Gloss Garage trafił Mercedes-Benz Klasy V z miejscowym wgnieceniem w obrębie przetłoczenia karoserii.
+
+Uszkodzenia w takich miejscach wymagają szczególnej precyzji. Przywrócenie pierwotnego kształtu elementu wymaga nie tylko usunięcia wgniecenia, ale również dokładnego odtworzenia fabrycznej linii nadwozia.
+
+Naprawę wykonano metodą PDR (Paintless Dent Repair), bez konieczności lakierowania elementu. Profesjonalne oświetlenie diagnostyczne pozwoliło kontrolować geometrię powierzchni podczas pracy oraz ocenić efekt końcowy.
+
+Dzięki zastosowaniu technologii PDR przywrócono prawidłowy kształt karoserii, zachowując oryginalną powłokę lakierniczą.
+
+## Usuwanie wgnieceń bez lakierowania we Wrocławiu
+
+Gloss Garage specjalizuje się w profesjonalnych naprawach PDR samochodów różnych marek, również pojazdów klasy premium.
+
+Masz podobne uszkodzenie? Prześlij nam zdjęcia wgniecenia i skorzystaj ze wstępnej wyceny naprawy.
+
+Gloss Garage – profesjonalne usuwanie wgnieceń PDR we Wrocławiu i okolicach.
+
+## Zdjęcia
+
+![Mercedes-Benz Klasy V – wgniecenie karoserii przed naprawą PDR we Wrocławiu](https://gg-pdr.pl/images/realizacje/mercedes-benz-v-class-pdr-wroclaw-przed-540.webp)
+
+PRZED
+
+![Mercedes-Benz Klasy V – efekt usuwania wgniecenia bez lakierowania w Gloss Garage](https://gg-pdr.pl/images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po-540.webp)
+
+PO
 
 [Usługi PDR](https://gg-pdr.pl/#pdr) · [Kontakt](https://gg-pdr.pl/#contact)
 

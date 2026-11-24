@@ -292,5 +292,42 @@
       "card_description": "Удаление вмятины на заднем крыле BMW M5 G90 без покраски во Вроцлаве.",
       "whatsapp": "Отправьте фотографию через WhatsApp"
     }
+  },
+  "mercedes-benz-v-class-pdr-wroclaw": {
+    "car": "Mercedes-Benz V-Class",
+    "cover": 2,
+    "article": true,
+    "markdown_intro": true,
+    "related": ["bmw-m5-g90-pdr-wroclaw", "audi-q8-usuwanie-wgniecenia-maski-pdr"],
+    "pl": {
+      "title": "Mercedes-Benz Klasy V – naprawa PDR Wrocław | Gloss Garage",
+      "description": "Usuwanie wgniecenia bez lakierowania w Mercedes-Benz Klasy V. Zobacz efekt naprawy PDR we Wrocławiu. Wyślij zdjęcie do wyceny w Gloss Garage.",
+      "h1": "Mercedes-Benz Klasy V – usuwanie wgniecenia bez lakierowania metodą PDR we Wrocławiu",
+      "lead": "Do serwisu Gloss Garage trafił Mercedes-Benz Klasy V z miejscowym wgnieceniem w obrębie przetłoczenia karoserii.",
+      "intro": "Uszkodzenia w takich miejscach wymagają szczególnej precyzji. Przywrócenie pierwotnego kształtu elementu wymaga nie tylko usunięcia wgniecenia, ale również dokładnego odtworzenia fabrycznej linii nadwozia.\n\nNaprawę wykonano metodą PDR (Paintless Dent Repair), bez konieczności lakierowania elementu. Profesjonalne oświetlenie diagnostyczne pozwoliło kontrolować geometrię powierzchni podczas pracy oraz ocenić efekt końcowy.\n\nDzięki zastosowaniu technologii PDR przywrócono prawidłowy kształt karoserii, zachowując oryginalną powłokę lakierniczą.",
+      "sections": [["Usuwanie wgnieceń bez lakierowania we Wrocławiu", "Gloss Garage specjalizuje się w profesjonalnych naprawach PDR samochodów różnych marek, również pojazdów klasy premium.\n\nMasz podobne uszkodzenie? Prześlij nam zdjęcia wgniecenia i skorzystaj ze wstępnej wyceny naprawy.\n\nGloss Garage – profesjonalne usuwanie wgnieceń PDR we Wrocławiu i okolicach."]],
+      "alts": ["Mercedes-Benz Klasy V – wgniecenie karoserii przed naprawą PDR we Wrocławiu", "Mercedes-Benz Klasy V – efekt usuwania wgniecenia bez lakierowania w Gloss Garage"],
+      "captions": ["PRZED", "PO"],
+      "damage": "Miejscowe wgniecenie w obrębie przetłoczenia karoserii",
+      "card_title": "Mercedes-Benz Klasy V – naprawa PDR",
+      "card_description": "Usunięcie wgniecenia metodą PDR z zachowaniem oryginalnej powłoki lakierniczej.",
+      "cta": "Masz podobne uszkodzenie?",
+      "whatsapp": "Wyślij zdjęcie do wyceny"
+    },
+    "ru": {
+      "title": "Mercedes-Benz V-Class – PDR Вроцлав | Gloss Garage",
+      "description": "Удаление вмятины без покраски Mercedes-Benz V-Class во Вроцлаве. Результат ремонта PDR в Gloss Garage. Предварительная оценка по фотографии.",
+      "h1": "Mercedes-Benz V-Class – удаление вмятины без покраски во Вроцлаве",
+      "lead": "В сервис Gloss Garage поступил Mercedes-Benz V-Class с локальной вмятиной в области ребра жёсткости кузовного элемента.",
+      "intro": "Ремонт подобных повреждений требует особой точности. Недостаточно просто устранить вмятину: необходимо восстановить первоначальную геометрию поверхности и заводскую линию кузова.\n\nРемонт был выполнен по технологии PDR (Paintless Dent Repair) без покраски кузовного элемента. Профессиональное диагностическое освещение позволило контролировать геометрию поверхности в процессе работы и оценить конечный результат.\n\nПрименение технологии PDR позволило восстановить форму кузова с сохранением оригинального лакокрасочного покрытия.",
+      "sections": [["Удаление вмятин без покраски во Вроцлаве", "Gloss Garage специализируется на профессиональном удалении вмятин по технологии PDR, в том числе на автомобилях премиального класса.\n\nУ вас похожее повреждение? Отправьте нам фотографии вмятины для предварительной оценки стоимости ремонта.\n\nGloss Garage – профессиональный PDR-ремонт во Вроцлаве и окрестностях."]],
+      "alts": ["Mercedes-Benz V-Class – вмятина кузова до ремонта PDR во Вроцлаве", "Mercedes-Benz V-Class – результат удаления вмятины без покраски в Gloss Garage"],
+      "captions": ["ДО", "ПОСЛЕ"],
+      "damage": "Локальная вмятина в области ребра жёсткости кузовного элемента",
+      "card_title": "Mercedes-Benz V-Class – ремонт PDR",
+      "card_description": "Удаление вмятины методом PDR с сохранением оригинального лакокрасочного покрытия.",
+      "cta": "У вас похожее повреждение?",
+      "whatsapp": "Отправить фото для оценки"
+    }
   }
 }

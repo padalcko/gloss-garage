@@ -678,5 +678,73 @@
         "bytes": 128598
       }
     ]
+  },
+  {
+    "original": "photo_2026-11-24 15.30.40.jpeg",
+    "slug": "mercedes-benz-v-class-pdr-wroclaw",
+    "number": 1,
+    "width": 960,
+    "height": 1280,
+    "bytes": 95053,
+    "variants": [
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-przed-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 14068
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-przed-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 24880
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-przed-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 41096
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-przed.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 59482
+      }
+    ]
+  },
+  {
+    "original": "photo_2026-11-24 15.30.44.jpeg",
+    "slug": "mercedes-benz-v-class-pdr-wroclaw",
+    "number": 2,
+    "width": 960,
+    "height": 1280,
+    "bytes": 133154,
+    "variants": [
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 21798
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 37688
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 63156
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-v-class-pdr-wroclaw-po.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 94988
+      }
+    ]
   }
 ]
