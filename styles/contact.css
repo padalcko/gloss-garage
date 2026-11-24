@@ -1,0 +1,25 @@
+/* Scoped contact page layout. */
+.contact-page .contact-intro,
+.contact-page .contact-section { padding: 24px 0 0; }
+.contact-page .contact-work { padding-bottom: 32px; }
+.contact-page .contact-intro h1 { color: var(--red); font-size: clamp(32px, 4vw, 48px); line-height: 1.1; }
+.contact-page .contact-intro p { max-width: 800px; margin-top: 14px; color: var(--muted); line-height: 1.7; }
+.contact-page .contact-intro .contact-intro__brand { color: inherit; font-size: 18px; }
+.contact-page .contact-section h2 { margin-bottom: 20px; font-size: clamp(24px, 3vw, 32px); line-height: 1.2; }
+.contact-cards { display: grid; grid-template-columns: minmax(0, 1fr); gap: 16px; }
+.contact-card { display: flex; gap: 16px; padding: 22px; background: var(--light); border: 1px solid var(--border); min-width: 0; }
+.contact-card svg { flex: 0 0 28px; width: 28px; height: 28px; color: var(--red); }
+.contact-card h3 { font-size: 17px; margin-bottom: 8px; }
+.contact-card p, .contact-card a { line-height: 1.6; }
+.contact-card a { text-decoration: underline; }
+.contact-card p { color: var(--muted); }
+.contact-work__grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 32px; }
+.contact-work__column { min-width: 0; }
+.contact-map { margin-bottom: 20px; }
+.contact-map iframe { height: auto; aspect-ratio: 4 / 3; }
+@media (min-width: 768px) {
+  .contact-page .contact-intro, .contact-page .contact-section { padding-top: 48px; }
+  .contact-page .contact-work { padding-bottom: 64px; }
+  .contact-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+  .contact-work__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+}

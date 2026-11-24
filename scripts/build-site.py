@@ -3,5 +3,5 @@
 from pathlib import Path
 import subprocess,sys
 root=Path(__file__).resolve().parents[1]
-for script in ('build-cases.py','build-ai-search.py','check-ai-search.py'):
+for script in ('build-cases.py','build-contact.py','build-ai-search.py','check-ai-search.py'):
     subprocess.run([sys.executable,str(root/'scripts'/script)],cwd=root,check=True)

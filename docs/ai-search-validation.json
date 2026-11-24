@@ -1,10 +1,10 @@
 {
   "counts": {
     "markdown_resources": 26,
-    "links_checked": 1927,
+    "links_checked": 2068,
     "llms_resources": 2,
-    "html_pages": 24,
-    "json_ld_blocks": 26,
+    "html_pages": 26,
+    "json_ld_blocks": 28,
     "schema_AutoRepair": 2,
     "schema_PostalAddress": 2,
     "schema_City": 4,
@@ -15,12 +15,13 @@
     "schema_FAQPage": 2,
     "schema_Question": 20,
     "schema_Answer": 20,
+    "schema_ContactPage": 2,
+    "schema_BreadcrumbList": 24,
+    "schema_ListItem": 68,
     "schema_ImageObject": 22,
-    "schema_BreadcrumbList": 22,
-    "schema_ListItem": 64,
     "case_paragraphs_checked": 133,
     "schema_Article": 12,
-    "sitemap_urls": 24
+    "sitemap_urls": 26
   },
   "errors": [],
   "http": [],
@@ -32,6 +33,7 @@
     "https://raccoon-studio.com.ua/",
     "https://wa.me/380667835184",
     "https://www.facebook.com/people/PDR_Wroclaw/100094086760978/",
+    "https://www.google.com/maps/dir/?api=1&destination=Radwanice%2C%20ul.%20Szkolna%2055",
     "https://www.google.com/maps?q=Radwanice%20Szkolna%2055&output=embed",
     "https://www.googletagmanager.com/gtag/js?id=G-GPXSKXM487",
     "https://www.instagram.com/pdr.glossgarage"
@@ -158,6 +160,22 @@
       "page": "https://gg-pdr.pl/"
     },
     {
+      "type": "ContactPage",
+      "page": "https://gg-pdr.pl/kontakt/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/kontakt/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/kontakt/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/kontakt/"
+    },
+    {
       "type": "WebPage",
       "page": "https://gg-pdr.pl/realizacje/audi-a4-pdr-przedni-prawy-blotnik/"
     },
@@ -560,6 +578,22 @@
     {
       "type": "Answer",
       "page": "https://gg-pdr.pl/ru/"
+    },
+    {
+      "type": "ContactPage",
+      "page": "https://gg-pdr.pl/ru/kontakt/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/kontakt/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/kontakt/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/kontakt/"
     },
     {
       "type": "WebPage",

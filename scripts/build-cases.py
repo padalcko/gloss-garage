@@ -55,6 +55,7 @@ for lang in COPY:
   switch='<div class="language-switcher" aria-label="'+('Выбор языка' if lang=='ru' else 'Wybór języka')+'">'
   switch+=' <span class="language-switcher__separator"> / </span> '.join(f'<a href="{route(l,slug)}" hreflang="{l}" class="language-switcher__link'+(' language-switcher__link--active" aria-current="page"' if l==lang else '"')+f'>{l.upper()}</a>' for l in COPY)+'</div>'
   pageheader=re.sub(r'<div class="language-switcher".*?</div>',lambda m:switch,header,flags=re.S)
+  pageheader=pageheader.replace(f'href="{route(lang)}"', f'href="{route(lang)}" aria-current="page"', 1)
   crumbs=[(c['home'],BASE+home),(c['label'],BASE+route(lang))]
   if slug:crumbs.append((DATA[slug]['car'],url))
   breadcrumb='<nav class="container case-breadcrumbs" aria-label="'+c['crumb']+'"><ol>'+''.join(f'<li><a href="{u.removeprefix(BASE)}">{E(t)}</a></li>' if i<len(crumbs)-1 else f'<li aria-current="page">{E(t)}</li>' for i,(t,u) in enumerate(crumbs))+'</ol></nav>'
