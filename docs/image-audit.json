@@ -1086,5 +1086,73 @@
         "bytes": 111180
       }
     ]
+  },
+  {
+    "original": "IMG_8876.JPG",
+    "slug": "mercedes-benz-gle-pdr-wroclaw",
+    "number": 1,
+    "width": 960,
+    "height": 1280,
+    "bytes": 171513,
+    "variants": [
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-before-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 24682
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-before-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 43656
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-before-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 75172
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-before.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 111540
+      }
+    ]
+  },
+  {
+    "original": "IMG_8877.JPG",
+    "slug": "mercedes-benz-gle-pdr-wroclaw",
+    "number": 2,
+    "width": 960,
+    "height": 1280,
+    "bytes": 137639,
+    "variants": [
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-after-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 18736
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-after-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 32598
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-after-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 51714
+      },
+      {
+        "file": "images/realizacje/mercedes-benz-gle-pdr-wroclaw-after.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 75604
+      }
+    ]
   }
 ]

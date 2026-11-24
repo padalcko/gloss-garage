@@ -46,6 +46,14 @@ Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/) · [Markdown](https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/mazda-cx5-pdr-wroclaw/).
 
+## Mercedes-Benz GLE
+
+Problem: Wgniecenie karoserii w okolicy nadkola.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/) · [Markdown](https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/).
+
 ## Mercedes-Benz V-Class
 
 Problem: Miejscowe wgniecenie w obrębie przetłoczenia karoserii.

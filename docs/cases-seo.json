@@ -120,6 +120,18 @@
     "og_image": "https://gg-pdr.pl/images/realizacje/volvo-v40-pdr-after-01-960.webp"
   },
   {
+    "url": "https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+    "title": "Mercedes-Benz GLE – PDR Wrocław | Gloss Garage",
+    "description": "Usuwanie wgniecenia przy nadkolu Mercedes-Benz GLE metodą PDR we Wrocławiu. Zdjęcia przed i po naprawie. Wycena ze zdjęć.",
+    "canonical": "https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+      "x-default": "https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/mercedes-benz-gle-pdr-wroclaw-after.webp"
+  },
+  {
     "url": "https://gg-pdr.pl/ru/realizacje/",
     "title": "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве",
     "description": "Реальные работы Gloss Garage во Вроцлаве и окрестностях. Фото и описания удаления вмятин на дверях и крыльях методом PDR без покраски.",
@@ -238,5 +250,17 @@
       "x-default": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
     },
     "og_image": "https://gg-pdr.pl/images/realizacje/volvo-v40-pdr-after-01-960.webp"
+  },
+  {
+    "url": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+    "title": "Mercedes-Benz GLE – PDR Вроцлав | Gloss Garage",
+    "description": "Удаление вмятины возле колёсной арки Mercedes-Benz GLE без покраски во Вроцлаве. Фото до и после. Оценка по фото.",
+    "canonical": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/",
+      "x-default": "https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/mercedes-benz-gle-pdr-wroclaw-after.webp"
   }
 ]

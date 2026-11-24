@@ -124,6 +124,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/volvo-v40-pdr/" />
   </url>
   <url>
+    <loc>https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/" />
+  </url>
+  <url>
     <loc>https://gg-pdr.pl/ru/realizacje/</loc>
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/" />
@@ -182,6 +188,12 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/volvo-v40-pdr/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/volvo-v40-pdr/" />
+  </url>
+  <url>
+    <loc>https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gg-pdr.pl/ru/realizacje/mercedes-benz-gle-pdr-wroclaw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gg-pdr.pl/realizacje/mercedes-benz-gle-pdr-wroclaw/" />
   </url>
   <!-- PDR CASES END -->
 </urlset>

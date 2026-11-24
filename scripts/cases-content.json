@@ -417,5 +417,42 @@
       "cta": "Ищете профессиональное удаление вмятин без покраски во Вроцлаве?",
       "whatsapp": "Отправьте фото для оценки"
     }
+  },
+  "mercedes-benz-gle-pdr-wroclaw": {
+    "car": "Mercedes-Benz GLE",
+    "cover": 2,
+    "article": true,
+    "markdown_intro": true,
+    "related": ["volvo-v40-pdr", "mazda-cx5-pdr-wroclaw"],
+    "pl": {
+      "title": "Mercedes-Benz GLE – PDR Wrocław | Gloss Garage",
+      "description": "Usuwanie wgniecenia przy nadkolu Mercedes-Benz GLE metodą PDR we Wrocławiu. Zdjęcia przed i po naprawie. Wycena ze zdjęć.",
+      "h1": "Mercedes-Benz GLE – usuwanie wgniecenia bez lakierowania metodą PDR we Wrocławiu",
+      "lead": "Do serwisu Gloss Garage we Wrocławiu trafił Mercedes-Benz GLE z wgnieceniem karoserii w okolicy nadkola. Uszkodzenie znajdowało się w wymagającym miejscu, blisko krawędzi elementu, co wymagało szczególnej precyzji podczas naprawy.",
+      "intro": "Zastosowanie technologii PDR (Paintless Dent Repair) pozwoliło przywrócić prawidłowy kształt powierzchni bez konieczności szpachlowania i ponownego lakierowania elementu.\n\nW przypadku samochodów klasy premium szczególnie ważne jest zachowanie oryginalnego lakieru oraz fabrycznej geometrii elementów karoserii. Metoda PDR umożliwia usuwanie odpowiednio zakwalifikowanych wgnieceń bez ingerencji w powłokę lakierniczą.\n\nEfektem wykonanej pracy jest usunięcie wgniecenia oraz przywrócenie naturalnej geometrii karoserii. Widoczne zarysowanie lakieru pozostaje odrębnym uszkodzeniem, którego usunięcie nie jest rezultatem naprawy PDR.\n\nGloss Garage specjalizuje się w profesjonalnym usuwaniu wgnieceń bez lakierowania we Wrocławiu. Naprawiamy samochody klasy premium, uszkodzenia parkingowe oraz wgniecenia powstałe w wyniku drobnych uderzeń i gradobicia.",
+      "sections": [],
+      "alts": ["Mercedes-Benz GLE – wgniecenie przy nadkolu przed naprawą PDR we Wrocławiu", "Mercedes-Benz GLE po usunięciu wgniecenia metodą PDR w Gloss Garage we Wrocławiu"],
+      "captions": ["PRZED", "PO"],
+      "damage": "Wgniecenie karoserii w okolicy nadkola",
+      "card_title": "Mercedes-Benz GLE – naprawa wgniecenia PDR",
+      "card_description": "Usunięcie wgniecenia przy nadkolu bez ponownego lakierowania.",
+      "cta": "Masz podobne uszkodzenie samochodu?",
+      "whatsapp": "Wyceń naprawę ze zdjęcia"
+    },
+    "ru": {
+      "title": "Mercedes-Benz GLE – PDR Вроцлав | Gloss Garage",
+      "description": "Удаление вмятины возле колёсной арки Mercedes-Benz GLE без покраски во Вроцлаве. Фото до и после. Оценка по фото.",
+      "h1": "Mercedes-Benz GLE – удаление вмятины без покраски методом PDR во Вроцлаве",
+      "lead": "В сервис Gloss Garage во Вроцлаве поступил Mercedes-Benz GLE с вмятиной кузова в области колёсной арки. Повреждение располагалось рядом с краем кузовного элемента, что требовало особой точности при выполнении ремонта.",
+      "intro": "Применение технологии PDR (Paintless Dent Repair) позволило восстановить первоначальную форму поверхности без использования шпаклёвки и повторной окраски элемента.\n\nПри ремонте автомобилей премиум-класса особенно важно сохранять оригинальное лакокрасочное покрытие и заводскую геометрию кузовных элементов. Технология PDR позволяет устранять подходящие для такого ремонта вмятины без вмешательства в лакокрасочное покрытие.\n\nВ результате выполненных работ вмятина была устранена, а геометрия кузова восстановлена. Оставшаяся царапина лакокрасочного покрытия является отдельным повреждением, устранение которого не является результатом PDR-ремонта.\n\nGloss Garage специализируется на профессиональном удалении вмятин без покраски во Вроцлаве. Мы работаем с автомобилями премиум-класса, устраняем парковочные вмятины, последствия небольших ударов и повреждения после града.",
+      "sections": [],
+      "alts": ["Mercedes-Benz GLE – вмятина возле колёсной арки до ремонта ПДР во Вроцлаве", "Mercedes-Benz GLE после удаления вмятины без покраски в Gloss Garage во Вроцлаве"],
+      "captions": ["ДО", "ПОСЛЕ"],
+      "damage": "Вмятина кузова возле колёсной арки",
+      "card_title": "Mercedes-Benz GLE – ремонт вмятины методом PDR",
+      "card_description": "Удаление вмятины возле колёсной арки без повторной покраски.",
+      "cta": "Обнаружили вмятину на автомобиле?",
+      "whatsapp": "Оценить стоимость ремонта по фото"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
-  "html_pages": 16,
-  "case_pages": 14,
-  "sitemap_urls": 16,
-  "webp_files": 80,
+  "html_pages": 24,
+  "case_pages": 22,
+  "sitemap_urls": 24,
+  "webp_files": 136,
   "http": [],
   "errors": [],
   "browser": "Not assessed by this static checker; see docs/ai-search-report.md for session evidence."
