@@ -1,26 +1,26 @@
 {
   "counts": {
-    "markdown_resources": 22,
-    "links_checked": 1599,
+    "markdown_resources": 24,
+    "links_checked": 1776,
     "llms_resources": 2,
-    "html_pages": 20,
-    "json_ld_blocks": 22,
+    "html_pages": 22,
+    "json_ld_blocks": 24,
     "schema_AutoRepair": 2,
     "schema_PostalAddress": 2,
     "schema_City": 4,
     "schema_Place": 4,
     "schema_WebSite": 2,
-    "schema_WebPage": 20,
+    "schema_WebPage": 22,
     "schema_Service": 2,
     "schema_FAQPage": 2,
     "schema_Question": 20,
     "schema_Answer": 20,
-    "schema_ImageObject": 18,
-    "schema_BreadcrumbList": 18,
-    "schema_ListItem": 52,
-    "case_paragraphs_checked": 123,
-    "schema_Article": 8,
-    "sitemap_urls": 20
+    "schema_ImageObject": 20,
+    "schema_BreadcrumbList": 20,
+    "schema_ListItem": 58,
+    "case_paragraphs_checked": 131,
+    "schema_Article": 10,
+    "sitemap_urls": 22
   },
   "errors": [],
   "http": [],
@@ -386,6 +386,34 @@
       "page": "https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
     },
     {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "Article",
+      "page": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    {
       "type": "AutoRepair",
       "page": "https://gg-pdr.pl/ru/"
     },
@@ -732,6 +760,34 @@
     {
       "type": "ListItem",
       "page": "https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/"
+    },
+    {
+      "type": "WebPage",
+      "page": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ImageObject",
+      "page": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "BreadcrumbList",
+      "page": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "ListItem",
+      "page": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/"
+    },
+    {
+      "type": "Article",
+      "page": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/"
     }
   ],
   "browser": "No browser providers returned by cua.getState; desktop/mobile visual QA unavailable."

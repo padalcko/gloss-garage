@@ -69,3 +69,11 @@ Problem: Wgniecenie prawego tylnego błotnika.
 Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
 
 [Pełny opis HTML](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/) · [Markdown](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/).
+
+## Volvo V40
+
+Problem: Rozległa deformacja lewego tylnego błotnika.
+
+Rozwiązanie: naprawa metodą PDR bez ponownego lakierowania.
+
+[Pełny opis HTML](https://gg-pdr.pl/realizacje/volvo-v40-pdr/) · [Markdown](https://gg-pdr.pl/realizacje/volvo-v40-pdr/index.md) · [Русский](https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/).

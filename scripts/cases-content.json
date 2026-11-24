@@ -374,5 +374,48 @@
       "cta": "Оценить ремонт по фото",
       "whatsapp": "Оценить ремонт по фото"
     }
+  },
+  "volvo-v40-pdr": {
+    "car": "Volvo V40",
+    "cover": 3,
+    "article": true,
+    "markdown_intro": true,
+    "related": ["mazda-cx5-pdr-wroclaw", "mercedes-benz-v-class-pdr-wroclaw"],
+    "pl": {
+      "title": "Volvo V40 – usuwanie wgnieceń PDR Wrocław | Gloss Garage",
+      "description": "Naprawa tylnego błotnika Volvo V40 metodą PDR. Usuwanie wgnieceń bez lakierowania we Wrocławiu. Wycena ze zdjęć – Gloss Garage.",
+      "h1": "Volvo V40 – usuwanie rozległych wgnieceń tylnego błotnika metodą PDR we Wrocławiu",
+      "lead": "Do serwisu Gloss Garage we Wrocławiu trafiło Volvo V40 z rozległym uszkodzeniem lewego tylnego błotnika. Deformacja obejmowała znaczną część powierzchni elementu, w tym okolice nadkola oraz charakterystyczne przetłoczenia karoserii.",
+      "intro": "Tego rodzaju uszkodzenia wymagają dużej precyzji, doświadczenia oraz odpowiedniej kontroli naprężeń blachy. Szczególnie istotne jest zachowanie prawidłowego profilu nadkola i odtworzenie oryginalnych linii nadwozia.\n\nW Gloss Garage zastosowaliśmy technologię PDR (Paintless Dent Repair), która pozwala przywrócić właściwy kształt elementu bez konieczności jego lakierowania.",
+      "sections": [
+        ["Zakres wykonanych prac:", "- Usunięcie rozległych wgnieceń lewego tylnego błotnika.\n- Przywrócenie geometrii powierzchni blachy.\n- Odtworzenie profilu nadkola i przetłoczeń karoserii.\n- Zachowanie oryginalnej powłoki lakierniczej.\n\nZdjęcia przed naprawą i po usunięciu wgnieceń pokazują różnicę w geometrii elementu oraz przebiegu odbić światła na powierzchni karoserii.\n\nPDR to skuteczna alternatywa dla tradycyjnych napraw blacharsko-lakierniczych również w przypadku bardziej wymagających deformacji, o ile stan elementu pozwala na zastosowanie tej technologii."],
+        ["", "Szukasz profesjonalnego usuwania wgnieceń bez lakierowania we Wrocławiu? Skontaktuj się z Gloss Garage. Prześlij zdjęcia uszkodzenia przez WhatsApp, a ocenimy możliwość wykonania naprawy metodą PDR i przygotujemy wstępną wycenę."]
+      ],
+      "alts": ["Volvo V40 – wgniecenie lewego tylnego błotnika przed naprawą PDR we Wrocławiu.", "Volvo V40 – deformacja tylnego błotnika i nadkola przed naprawą.", "Volvo V40 – tylny błotnik po usunięciu wgnieceń metodą PDR.", "Volvo V40 – odtworzony profil nadkola po naprawie PDR Gloss Garage."],
+      "captions": ["PRZED · 01", "PRZED · 02", "PO · 01 · przed ostatecznym montażem", "PO · 02 · przed ostatecznym montażem"],
+      "damage": "Rozległa deformacja lewego tylnego błotnika",
+      "card_title": "Volvo V40 – rozległe wgniecenia tylnego błotnika PDR",
+      "card_description": "Naprawa lewego tylnego błotnika metodą PDR.",
+      "cta": "Szukasz profesjonalnego usuwania wgnieceń bez lakierowania we Wrocławiu?",
+      "whatsapp": "Prześlij zdjęcia do wyceny"
+    },
+    "ru": {
+      "title": "Volvo V40 – удаление вмятин PDR Вроцлав | Gloss Garage",
+      "description": "Ремонт заднего крыла Volvo V40 методом PDR. Удаление вмятин без покраски во Вроцлаве. Оценка по фото – Gloss Garage.",
+      "h1": "Volvo V40 – удаление сложных вмятин заднего крыла методом PDR во Вроцлаве",
+      "lead": "В сервис Gloss Garage во Вроцлаве поступил автомобиль Volvo V40 с масштабным повреждением заднего левого крыла. Деформация затронула значительную часть кузовного элемента, включая область колёсной арки и характерные линии кузова.",
+      "intro": "Устранение подобных повреждений требует высокой точности, опыта и грамотной работы с напряжением металла. Особое внимание необходимо уделять восстановлению профиля колёсной арки и оригинальной геометрии кузовного элемента.\n\nСпециалисты Gloss Garage применили технологию PDR (Paintless Dent Repair), позволяющую восстановить форму металла без необходимости окрашивания детали.",
+      "sections": [
+        ["Выполненные работы:", "- Удаление масштабных вмятин заднего левого крыла.\n- Восстановление геометрии поверхности металла.\n- Восстановление профиля колёсной арки и линий кузова.\n- Сохранение оригинального лакокрасочного покрытия.\n\nНа фотографиях до ремонта и после удаления вмятин хорошо видна разница в геометрии кузовного элемента и характере отражения света на его поверхности.\n\nТехнология PDR позволяет устранять не только небольшие парковочные вмятины, но и более сложные деформации кузова, если состояние повреждённого элемента допускает применение данного метода."],
+        ["", "Ищете профессиональное удаление вмятин без покраски во Вроцлаве? Обращайтесь в Gloss Garage. Отправьте фотографии повреждения через WhatsApp, и мы оценим возможность ремонта методом PDR и предоставим предварительную стоимость работ."]
+      ],
+      "alts": ["Volvo V40 – вмятина заднего левого крыла до ремонта PDR во Вроцлаве.", "Volvo V40 – деформация заднего крыла и колёсной арки до ремонта.", "Volvo V40 – заднее крыло после удаления вмятин методом PDR.", "Volvo V40 – восстановленный профиль колёсной арки после ремонта PDR Gloss Garage."],
+      "captions": ["ДО · 01", "ДО · 02", "ПОСЛЕ · 01 · до окончательной сборки", "ПОСЛЕ · 02 · до окончательной сборки"],
+      "damage": "Масштабная деформация заднего левого крыла",
+      "card_title": "Volvo V40 – сложные вмятины заднего крыла PDR",
+      "card_description": "Ремонт заднего левого крыла методом PDR.",
+      "cta": "Ищете профессиональное удаление вмятин без покраски во Вроцлаве?",
+      "whatsapp": "Отправьте фото для оценки"
+    }
   }
 }

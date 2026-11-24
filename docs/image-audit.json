@@ -950,5 +950,141 @@
         "bytes": 79974
       }
     ]
+  },
+  {
+    "original": "IMG_8878.JPG",
+    "slug": "volvo-v40-pdr",
+    "number": 1,
+    "width": 960,
+    "height": 1280,
+    "bytes": 169644,
+    "variants": [
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-01-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 25428
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-01-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 43992
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-01-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 71070
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-01-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 105338
+      }
+    ]
+  },
+  {
+    "original": "IMG_8879.JPG",
+    "slug": "volvo-v40-pdr",
+    "number": 2,
+    "width": 960,
+    "height": 1280,
+    "bytes": 146045,
+    "variants": [
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-02-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 19750
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-02-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 33680
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-02-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 54694
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-before-02-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 80326
+      }
+    ]
+  },
+  {
+    "original": "IMG_8880.JPG",
+    "slug": "volvo-v40-pdr",
+    "number": 3,
+    "width": 960,
+    "height": 1280,
+    "bytes": 161689,
+    "variants": [
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-01-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 23180
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-01-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 40332
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-01-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 68274
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-01-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 101034
+      }
+    ]
+  },
+  {
+    "original": "IMG_8881.JPG",
+    "slug": "volvo-v40-pdr",
+    "number": 4,
+    "width": 960,
+    "height": 1280,
+    "bytes": 166408,
+    "variants": [
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-02-360.webp",
+        "width": 360,
+        "height": 480,
+        "bytes": 22126
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-02-540.webp",
+        "width": 540,
+        "height": 720,
+        "bytes": 41730
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-02-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 74192
+      },
+      {
+        "file": "images/realizacje/volvo-v40-pdr-after-02-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 111180
+      }
+    ]
   }
 ]

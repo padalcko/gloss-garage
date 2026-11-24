@@ -34,3 +34,4 @@ Rozwiązanie: usunięcie wgniecenia metodą PDR, po ocenie możliwości naprawy.
 - [Mercedes-Benz Klasy V – usuwanie wgniecenia bez lakierowania metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/mercedes-benz-v-class-pdr-wroclaw/)
 - [Toyota Corolla — naprawa prawych przednich drzwi PDR](https://gg-pdr.pl/realizacje/toyota-corolla-pdr-prawe-przednie-drzwi/)
 - [Volkswagen Tiguan — PDR prawego tylnego błotnika](https://gg-pdr.pl/realizacje/volkswagen-tiguan-pdr-prawy-tylny-blotnik/)
+- [Volvo V40 – usuwanie rozległych wgnieceń tylnego błotnika metodą PDR we Wrocławiu](https://gg-pdr.pl/realizacje/volvo-v40-pdr/)

@@ -108,6 +108,18 @@
     "og_image": "https://gg-pdr.pl/images/realizacje/mazda-cx5-pdr-wroclaw-05-960.webp"
   },
   {
+    "url": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/",
+    "title": "Volvo V40 – usuwanie wgnieceń PDR Wrocław | Gloss Garage",
+    "description": "Naprawa tylnego błotnika Volvo V40 metodą PDR. Usuwanie wgnieceń bez lakierowania we Wrocławiu. Wycena ze zdjęć – Gloss Garage.",
+    "canonical": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/",
+      "x-default": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/volvo-v40-pdr-after-01-960.webp"
+  },
+  {
     "url": "https://gg-pdr.pl/ru/realizacje/",
     "title": "Работы Gloss Garage — примеры ремонта PDR во Вроцлаве",
     "description": "Реальные работы Gloss Garage во Вроцлаве и окрестностях. Фото и описания удаления вмятин на дверях и крыльях методом PDR без покраски.",
@@ -214,5 +226,17 @@
       "x-default": "https://gg-pdr.pl/realizacje/mazda-cx5-pdr-wroclaw/"
     },
     "og_image": "https://gg-pdr.pl/images/realizacje/mazda-cx5-pdr-wroclaw-05-960.webp"
+  },
+  {
+    "url": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/",
+    "title": "Volvo V40 – удаление вмятин PDR Вроцлав | Gloss Garage",
+    "description": "Ремонт заднего крыла Volvo V40 методом PDR. Удаление вмятин без покраски во Вроцлаве. Оценка по фото – Gloss Garage.",
+    "canonical": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/",
+    "hreflang": {
+      "pl": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/",
+      "ru": "https://gg-pdr.pl/ru/realizacje/volvo-v40-pdr/",
+      "x-default": "https://gg-pdr.pl/realizacje/volvo-v40-pdr/"
+    },
+    "og_image": "https://gg-pdr.pl/images/realizacje/volvo-v40-pdr-after-01-960.webp"
   }
 ]
